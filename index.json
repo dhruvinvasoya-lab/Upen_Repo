@@ -2,7 +2,7 @@
     "status": true,
     "message": "Version data loaded successfully.",
     "version_id": "660",
-    "user_id": 41,
+    "user_id": "41",
     "abo_version": {
         "version_id": "660",
         "app_id": "378",
@@ -15,7 +15,7 @@
         "is_master": "1",
         "xray_project_version": null,
         "restore_id": "0",
-        "is_git_enabled": "0",
+        "is_git_enabled": "1",
         "git_restore_id": "0",
         "is_delete": "0"
     },
@@ -61,7 +61,7 @@
             "cm_test_case_ai": "",
             "cm_network": "",
             "cm_renderer": "",
-            "view_updated_date_time": "2026-07-08 09:48:26",
+            "view_updated_date_time": "2026-07-08 14:19:52",
             "is_updated": "1",
             "is_complie": "1",
             "server_ids": "",
@@ -86,7 +86,7 @@
                     "is_ai_generated": "0",
                     "is_draft": "0",
                     "is_internal_launch": "0",
-                    "updated_at": "2026-07-08 14:18:26",
+                    "updated_at": "2026-07-08 14:19:52",
                     "created_at": "2026-07-08 14:18:26",
                     "qtest_skip_sync": "0",
                     "test_case_tags": [],
@@ -116,6 +116,15 @@
                     "version_module_id": "1815",
                     "description": "",
                     "action_process": "add_test_case"
+                },
+                {
+                    "id": "6005",
+                    "user_id": "41",
+                    "app_id": "378",
+                    "version_id": "660",
+                    "version_module_id": "1815",
+                    "description": "",
+                    "action_process": "edit_test_case"
                 }
             ],
             "abo_vm_test_story_manual": [],

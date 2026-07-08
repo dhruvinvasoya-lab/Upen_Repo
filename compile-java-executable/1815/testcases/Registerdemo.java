@@ -22,6 +22,7 @@ public class registerdemo {
 	public void registerdemo() {
 		tg.openDevice();
 		tg.wait(5);
+		tg.wait(5);
 		tg.close();
 	}
 }
