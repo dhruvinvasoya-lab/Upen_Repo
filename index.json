@@ -2,7 +2,7 @@
     "status": true,
     "message": "Version data loaded successfully.",
     "version_id": "188",
-    "user_id": 65,
+    "user_id": "65",
     "abo_version": {
         "version_id": "188",
         "app_id": "164",
@@ -16,7 +16,7 @@
         "is_delete": "0",
         "xray_project_version": null,
         "restore_id": "0",
-        "is_git_enabled": "0",
+        "is_git_enabled": "1",
         "git_restore_id": "0"
     },
     "app_id": "164",
@@ -61,8 +61,8 @@
             "cm_test_case_ai": "",
             "cm_network": "",
             "cm_renderer": "",
-            "view_updated_date_time": "2026-07-10 13:01:20",
-            "is_updated": "0",
+            "view_updated_date_time": "2026-07-10 13:05:56",
+            "is_updated": "1",
             "is_complie": "1",
             "server_ids": null,
             "is_running": "0",
@@ -86,7 +86,7 @@
                     "is_auto": "0",
                     "is_ai_generated": "0",
                     "is_draft": "0",
-                    "updated_at": "2026-07-10 11:34:05",
+                    "updated_at": "2026-07-10 13:05:56",
                     "created_at": "2026-07-10 11:28:21",
                     "qtest_skip_sync": "0",
                     "test_case_tags": [
