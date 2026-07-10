@@ -4842,7 +4842,20 @@
     ],
     "abo_import_statement": [],
     "abo_maven_dependency": [],
-    "abo_external_jar": [],
+    "abo_external_jar": [
+        {
+            "jar_id": "13",
+            "user_id": "65",
+            "app_id": "164",
+            "version_id": "188",
+            "group_id": "org.mongodb",
+            "artifact_id": "mongodb-driver-core",
+            "version": "5.1.1",
+            "external_jar": "mongodb-driver-core-5.1.1.jar",
+            "created": "2026-07-10 14:21:15",
+            "updated": "2026-07-10 14:21:15"
+        }
+    ],
     "abo_global_variable": [
         {
             "variable_id": "47",
@@ -4855,6 +4868,18 @@
             "gv_category": "global",
             "created": "2026-07-10 14:20:17",
             "updated": "2026-07-10 14:20:17"
+        },
+        {
+            "variable_id": "48",
+            "user_id": "65",
+            "app_id": "164",
+            "version_id": "188",
+            "variable_type": "String",
+            "variable_name": "NameR",
+            "variable_value": "upendra",
+            "gv_category": "runtime",
+            "created": "2026-07-10 14:20:42",
+            "updated": "2026-07-10 14:20:42"
         }
     ],
     "ab_scheduler": [],
