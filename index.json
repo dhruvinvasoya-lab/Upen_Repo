@@ -4840,7 +4840,17 @@
             "capabilities_keyvalue": "com.google.android.apps.chrome.Main"
         }
     ],
-    "abo_import_statement": [],
+    "abo_import_statement": [
+        {
+            "import_statement_id": "5",
+            "user_id": "65",
+            "app_id": "164",
+            "version_id": "188",
+            "import_statement": "import com.mongodb.*; import org.bson.BsonDocument; import org.bson.BsonInt64; import org.bson.Document; import org.bson.conversions.Bson; import com.mongodb.client.MongoClient; import com.mongodb.client.MongoClients; import com.mongodb.client.MongoDatabase; ",
+            "created": "2026-07-10 14:23:11",
+            "updated": null
+        }
+    ],
     "abo_maven_dependency": [
         {
             "maven_id": "3",
