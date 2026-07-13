@@ -1,0 +1,115 @@
+{
+    "elements": [
+        {
+            "testcase_element": "ele_TabBarItemTitleTextField1783682569971",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "(//XCUIElementTypeTextField[@name='TabBarItemTitle'])[1]",
+                    "locator_id": "3",
+                    "d_h": 25,
+                    "d_w": 159,
+                    "d_x": 136,
+                    "d_y": 856,
+                    "suggest_name": "TabBarItemTitleTextField1783682569971"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "TabBarItemTitleTextField1783682569971",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther[2]/XCUIElementTypeOther[3]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTextField"
+                    ],
+                    "img": "",
+                    "d_h": "25",
+                    "d_w": "159",
+                    "d_x": "136",
+                    "d_y": "856",
+                    "element_area": 184,
+                    "locators_val": "//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther[2]/XCUIElementTypeOther[3]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTextField",
+                    "locators": "xpath"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://117.240.112.134/s/ele-imgs/197/3449.png"
+        },
+        {
+            "testcase_element": "ele_URLTextField1783682576631",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "(//XCUIElementTypeTextField[@name='URL'])[1]",
+                    "locator_id": "3",
+                    "d_h": 48,
+                    "d_w": 300,
+                    "d_x": 20,
+                    "d_y": 552,
+                    "suggest_name": "URLTextField1783682576631"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "URLTextField1783682576631",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther[2]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTextField"
+                    ],
+                    "img": "",
+                    "d_h": "48",
+                    "d_w": "300",
+                    "d_x": "20",
+                    "d_y": "552",
+                    "element_area": 348,
+                    "locators_val": "//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther[2]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTextField",
+                    "locators": "xpath"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://117.240.112.134/s/ele-imgs/197/3450.png"
+        },
+        {
+            "testcase_element": "ele_GoButton1783682589558",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "(//XCUIElementTypeButton[@name='Go'])[1]",
+                    "locator_id": "3",
+                    "d_h": 56,
+                    "d_w": 75,
+                    "d_x": 351,
+                    "d_y": 800,
+                    "suggest_name": "GoButton1783682589558"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "GoButton1783682589558",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//XCUIElementTypeApplication/XCUIElementTypeWindow[3]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[3]/XCUIElementTypeKeyboard/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeButton[3]"
+                    ],
+                    "img": "",
+                    "d_h": "56",
+                    "d_w": "75",
+                    "d_x": "351",
+                    "d_y": "800",
+                    "element_area": 131,
+                    "locators_val": "//XCUIElementTypeApplication/XCUIElementTypeWindow[3]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[3]/XCUIElementTypeKeyboard/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeButton[3]",
+                    "locators": "xpath"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://117.240.112.134/s/ele-imgs/197/3451.png"
+        }
+    ]
+}
