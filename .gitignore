@@ -1,0 +1,8 @@
+# Version History Git Ignore
+# Generated on 2026-07-13 08:24:50
+
+*.tmp
+.DS_Store
+*.jar
+external_jar/
+external_jar/*.jar
