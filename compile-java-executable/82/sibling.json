@@ -1,0 +1,115 @@
+{
+    "elements": [
+        {
+            "testcase_element": "ele_TabBarItemTitleTextField1788193259746",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "(//XCUIElementTypeTextField[@name='TabBarItemTitle'])[1]",
+                    "locator_id": "3",
+                    "d_h": 21,
+                    "d_w": 228,
+                    "d_x": 93,
+                    "d_y": 782,
+                    "suggest_name": "TabBarItemTitleTextField1788193259746"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "TabBarItemTitleTextField1788193259746",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther[3]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeTextField"
+                    ],
+                    "img": "",
+                    "d_h": "21",
+                    "d_w": "228",
+                    "d_x": "93",
+                    "d_y": "782",
+                    "element_area": 249,
+                    "locators_val": "//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther[3]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeTextField",
+                    "locators": "xpath"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_URLTextField1788193268520",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "(//XCUIElementTypeTextField[@name='URL'])[1]",
+                    "locator_id": "3",
+                    "d_h": 46,
+                    "d_w": 324,
+                    "d_x": 28,
+                    "d_y": 546,
+                    "suggest_name": "URLTextField1788193268520"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "URLTextField1788193268520",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther[3]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeTextField"
+                    ],
+                    "img": "",
+                    "d_h": "46",
+                    "d_w": "324",
+                    "d_x": "28",
+                    "d_y": "546",
+                    "element_area": 370,
+                    "locators_val": "//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther[3]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeTextField",
+                    "locators": "xpath"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://192.168.4.21/s/ele-imgs/82/819.png"
+        },
+        {
+            "testcase_element": "ele_GoButton1788193279811",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "(//XCUIElementTypeButton[@name='Go'])[1]",
+                    "locator_id": "3",
+                    "d_h": 49,
+                    "d_w": 69,
+                    "d_x": 343,
+                    "d_y": 770,
+                    "suggest_name": "GoButton1788193279811"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "GoButton1788193279811",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//XCUIElementTypeApplication/XCUIElementTypeWindow[3]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[3]/XCUIElementTypeKeyboard/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeButton[2]"
+                    ],
+                    "img": "",
+                    "d_h": "49",
+                    "d_w": "69",
+                    "d_x": "343",
+                    "d_y": "770",
+                    "element_area": 118,
+                    "locators_val": "//XCUIElementTypeApplication/XCUIElementTypeWindow[3]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[3]/XCUIElementTypeKeyboard/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeButton[2]",
+                    "locators": "xpath"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://192.168.4.21/s/ele-imgs/82/820.png"
+        }
+    ]
+}
