@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locators>
+  <locator name="ele_CardElements">
+    <element type="xpath">//html[1]/body[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]</element>
+  </locator>
+  <locator name="ele_MenuTextBox">
+    <element type="id">item-0TGWEBCOMMAIdTGWEBCOMMA0</element>
+  </locator>
+  <locator name="ele_TextBoxuserName">
+    <element type="id">userNameTGWEBCOMMAIdTGWEBCOMMA0</element>
+  </locator>
+  <locator name="ele_TextBoxEmail">
+    <element type="xpath">//html[1]/body[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/form[1]/div[2]/div[2]/input[1]</element>
+  </locator>
+  <locator name="ele_LabelFullName">
+    <element type="css">*[id='userName-label']TGWEBCOMMACssSelectorTGWEBCOMMA0</element>
+  </locator>
+  <locator name="ele_MenuForms">
+    <element type="xpath">//html[1]/body[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/span[1]/div[1]</element>
+  </locator>
+  <locator name="ele_html1body1div2header1a10">
+    <element type="xpath">//html[1]/body[1]/div[2]/header[1]/a[1]</element>
+  </locator>
+  <locator name="ele_LogoToolsQA">
+    <element type="xpath">//html[1]/body[1]/div[2]/header[1]/a[1]/img[1]</element>
+  </locator>
+  <locator name="ele_MenuForms">
+    <element type="xpath">//html[1]/body[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/span[1]/div[1]</element>
+  </locator>
+  <locator name="ele_html1body1div2header1a10">
+    <element type="xpath">//html[1]/body[1]/div[2]/header[1]/a[1]</element>
+  </locator>
+  <locator name="ele_LogoToolsQA">
+    <element type="xpath">//html[1]/body[1]/div[2]/header[1]/a[1]/img[1]</element>
+  </locator>
+  <locator name="ele_MenuButtons">
+    <element type="id">item-4TGWEBCOMMAIdTGWEBCOMMA0</element>
+  </locator>
+  <locator name="ele_ButtonClickMe">
+    <element type="xpath">//html[1]/body[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[3]/button[1]</element>
+  </locator>
+  <locator name="ele_MenuRadioButton">
+    <element type="id">item-2TGWEBCOMMAIdTGWEBCOMMA0</element>
+  </locator>
+  <locator name="ele_Yes">
+    <element type="xpath">//html[1]/body[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[2]/label[1]</element>
+  </locator>
+  <locator name="ele_RadioButtonImpressive">
+    <element type="xpath">//html[1]/body[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[3]/label[1]</element>
+  </locator>
+  <locator name="ele_MenuWidgets">
+    <element type="xpath">//html[1]/body[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[4]/span[1]/div[1]</element>
+  </locator>
+  <locator name="ele_MenuToolTips">
+    <element type="xpath">//html[1]/body[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[4]/div[1]/ul[1]/li[7]</element>
+  </locator>
+  <locator name="ele_Hovermetosee">
+    <element type="xpath">//html[1]/body[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/button[1]</element>
+  </locator>
+  <locator name="ele_MenuWidgets">
+    <element type="xpath">//html[1]/body[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[4]/span[1]/div[1]</element>
+  </locator>
+  <locator name="ele_MenuToolTips">
+    <element type="xpath">//html[1]/body[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[4]/div[1]/ul[1]/li[7]</element>
+  </locator>
+  <locator name="ele_Hovermetosee">
+    <element type="xpath">//html[1]/body[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/button[1]</element>
+  </locator>
+  <locator name="ele_TabForms">
+    <element type="xpath">//html[1]/body[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/span[1]/div[1]/div[1]</element>
+  </locator>
+  <locator name="ele_MenuPracticeForm">
+    <element type="xpath">//html[1]/body[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]</element>
+  </locator>
+  <locator name="ele_DropDownSelectState">
+    <element type="id">stateTGWEBCOMMAIdTGWEBCOMMA0</element>
+  </locator>
+  <locator name="ele_DropDownSelectState1">
+    <element type="xpath">//html[1]/body[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/form[1]/div[10]/div[2]/div[1]/div[1]</element>
+  </locator>
+</locators>

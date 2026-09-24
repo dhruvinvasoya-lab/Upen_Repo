@@ -1,0 +1,524 @@
+{
+    "elements": [
+        {
+            "testcase_element": "ele_CardElements",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//html[1]/body[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]",
+                    "locator_id": "3",
+                    "d_h": 400,
+                    "d_w": 183,
+                    "d_x": 16,
+                    "d_y": 444,
+                    "suggest_name": "CardElements"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_MenuTextBox",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "id",
+                    "locators_val": "item-0TGWEBCOMMA0",
+                    "locator_id": "7",
+                    "d_h": 64,
+                    "d_w": 244,
+                    "d_x": 49,
+                    "d_y": 341,
+                    "suggest_name": "MenuTextBox"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "id",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_TextBoxuserName",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "id",
+                    "locators_val": "userNameTGWEBCOMMA0",
+                    "locator_id": "7",
+                    "d_h": 38,
+                    "d_w": 450,
+                    "d_x": 507,
+                    "d_y": 244,
+                    "suggest_name": "TextBoxuserName"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "id",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_TextBoxEmail",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//html[1]/body[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/form[1]/div[2]/div[2]/input[1]",
+                    "locator_id": "3",
+                    "d_h": 38,
+                    "d_w": 450,
+                    "d_x": 507,
+                    "d_y": 290,
+                    "suggest_name": "TextBoxEmail"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_LabelFullName",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "CSS Selector",
+                    "locators_val": "*[id='userName-label']TGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 24,
+                    "d_w": 73,
+                    "d_x": 347,
+                    "d_y": 244,
+                    "suggest_name": "LabelFullName"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "css",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_MenuForms",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//html[1]/body[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/span[1]/div[1]",
+                    "locator_id": "3",
+                    "d_h": 80,
+                    "d_w": 254,
+                    "d_x": 50,
+                    "d_y": 933,
+                    "suggest_name": "MenuForms"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_html1body1div2header1a10",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//html[1]/body[1]/div[2]/header[1]/a[1]",
+                    "locator_id": "3",
+                    "d_h": 100,
+                    "d_w": 347,
+                    "d_x": 499,
+                    "d_y": 0,
+                    "suggest_name": "html1body1div2header1a10"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_LogoToolsQA",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//html[1]/body[1]/div[2]/header[1]/a[1]/img[1]",
+                    "locator_id": "3",
+                    "d_h": 100,
+                    "d_w": 347,
+                    "d_x": 499,
+                    "d_y": 0,
+                    "suggest_name": "LogoToolsQA"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_MenuForms",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//html[1]/body[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/span[1]/div[1]",
+                    "locator_id": "3",
+                    "d_h": 80,
+                    "d_w": 254,
+                    "d_x": 50,
+                    "d_y": 933,
+                    "suggest_name": "MenuForms"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_html1body1div2header1a10",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//html[1]/body[1]/div[2]/header[1]/a[1]",
+                    "locator_id": "3",
+                    "d_h": 100,
+                    "d_w": 347,
+                    "d_x": 499,
+                    "d_y": 0,
+                    "suggest_name": "html1body1div2header1a10"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_LogoToolsQA",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//html[1]/body[1]/div[2]/header[1]/a[1]/img[1]",
+                    "locator_id": "3",
+                    "d_h": 100,
+                    "d_w": 347,
+                    "d_x": 499,
+                    "d_y": 0,
+                    "suggest_name": "LogoToolsQA"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_MenuButtons",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "id",
+                    "locators_val": "item-4TGWEBCOMMA0",
+                    "locator_id": "7",
+                    "d_h": 64,
+                    "d_w": 254,
+                    "d_x": 50,
+                    "d_y": 597,
+                    "suggest_name": "MenuButtons"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "id",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_ButtonClickMe",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//html[1]/body[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[3]/button[1]",
+                    "locator_id": "3",
+                    "d_h": 38,
+                    "d_w": 87,
+                    "d_x": 357,
+                    "d_y": 360,
+                    "suggest_name": "ButtonClickMe"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_MenuRadioButton",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "id",
+                    "locators_val": "item-2TGWEBCOMMA0",
+                    "locator_id": "7",
+                    "d_h": 64,
+                    "d_w": 254,
+                    "d_x": 50,
+                    "d_y": 469,
+                    "suggest_name": "MenuRadioButton"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "id",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_Yes",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//html[1]/body[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[2]/label[1]",
+                    "locator_id": "3",
+                    "d_h": 24,
+                    "d_w": 26,
+                    "d_x": 381,
+                    "d_y": 276,
+                    "suggest_name": "Yes"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_RadioButtonImpressive",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//html[1]/body[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[3]/label[1]",
+                    "locator_id": "3",
+                    "d_h": 24,
+                    "d_w": 77,
+                    "d_x": 448,
+                    "d_y": 276,
+                    "suggest_name": "RadioButtonImpressive"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_MenuWidgets",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//html[1]/body[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[4]/span[1]/div[1]",
+                    "locator_id": "3",
+                    "d_h": 80,
+                    "d_w": 254,
+                    "d_x": 50,
+                    "d_y": 525,
+                    "suggest_name": "MenuWidgets"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_MenuToolTips",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//html[1]/body[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[4]/div[1]/ul[1]/li[7]",
+                    "locator_id": "3",
+                    "d_h": 64,
+                    "d_w": 254,
+                    "d_x": 50,
+                    "d_y": 989,
+                    "suggest_name": "MenuToolTips"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_Hovermetosee",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//html[1]/body[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/button[1]",
+                    "locator_id": "3",
+                    "d_h": 38,
+                    "d_w": 143,
+                    "d_x": 357,
+                    "d_y": 276,
+                    "suggest_name": "Hovermetosee"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_MenuWidgets",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//html[1]/body[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[4]/span[1]/div[1]",
+                    "locator_id": "3",
+                    "d_h": 80,
+                    "d_w": 254,
+                    "d_x": 50,
+                    "d_y": 525,
+                    "suggest_name": "MenuWidgets"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_MenuToolTips",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//html[1]/body[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[4]/div[1]/ul[1]/li[7]",
+                    "locator_id": "3",
+                    "d_h": 64,
+                    "d_w": 254,
+                    "d_x": 50,
+                    "d_y": 989,
+                    "suggest_name": "MenuToolTips"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_Hovermetosee",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//html[1]/body[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/button[1]",
+                    "locator_id": "3",
+                    "d_h": 38,
+                    "d_w": 143,
+                    "d_x": 357,
+                    "d_y": 276,
+                    "suggest_name": "Hovermetosee"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_TabForms",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//html[1]/body[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/span[1]/div[1]/div[1]",
+                    "locator_id": "3",
+                    "d_h": 80,
+                    "d_w": 94,
+                    "d_x": 50,
+                    "d_y": 349,
+                    "suggest_name": "TabForms"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_MenuPracticeForm",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//html[1]/body[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]",
+                    "locator_id": "3",
+                    "d_h": 64,
+                    "d_w": 274,
+                    "d_x": 50,
+                    "d_y": 429,
+                    "suggest_name": "MenuPracticeForm"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_DropDownSelectState",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "id",
+                    "locators_val": "stateTGWEBCOMMA0",
+                    "locator_id": "7",
+                    "d_h": 38,
+                    "d_w": 190,
+                    "d_x": 522,
+                    "d_y": 782,
+                    "suggest_name": "DropDownSelectState"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "id",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_DropDownSelectState1",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//html[1]/body[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/form[1]/div[10]/div[2]/div[1]/div[1]",
+                    "locator_id": "3",
+                    "d_h": 38,
+                    "d_w": 190,
+                    "d_x": 522,
+                    "d_y": 782,
+                    "suggest_name": "DropDownSelectState1"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        }
+    ]
+}

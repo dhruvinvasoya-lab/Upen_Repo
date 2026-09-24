@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locators>
+  <locator name="ele_user">
+    <element type="id">sTGWEBCOMMAIdTGWEBCOMMAlocal</element>
+  </locator>
+  <locator name="ele_local">
+    <element type="xpath">//div[@id='l']</element>
+  </locator>
+  <locator name="ele_user_990044">
+    <element type="xpath">//input[@id='u']</element>
+  </locator>
+  <locator name="ele_pass_990044">
+    <element type="xpath">//input[@id='p']</element>
+  </locator>
+  <locator name="ele_helper_990044">
+    <element type="xpath">//div[@id='h']</element>
+  </locator>
+  <locator name="ele_box_990045">
+    <element type="xpath">//input[@id='b']</element>
+  </locator>
+</locators>
