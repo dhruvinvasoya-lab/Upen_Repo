@@ -31,6 +31,9 @@ public class tc00001 {
 		// [DISABLED] tg_String var_name = "";
 		// [DISABLED] 		var_name = tg.readFromAPI("AR_api.json").getString();
 		tg.wait(5);
+		tg.wait("ele_textip0ele121", ComparisonType.IS_VISIBLE);
+		tg.click("ele_textip0ele121", 1);
+		tg.wait("ele_textip0ele121", ComparisonType.IS_VISIBLE);
 		tg.close();
 	}
 }
