@@ -1,0 +1,78 @@
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.ResultSet;
+import java.sql.Statement;
+import com.fasterxml.jackson.databind.JsonNode;
+import com.fasterxml.jackson.databind.ObjectMapper;
+import okhttp3.*;
+import javax.net.ssl.HostnameVerifier;
+import javax.net.ssl.SSLContext;
+import javax.net.ssl.SSLSession;
+import javax.net.ssl.TrustManager;
+import javax.net.ssl.X509TrustManager;
+import java.security.SecureRandom;
+import java.security.cert.X509Certificate;
+import java.net.InetSocketAddress;
+import java.net.Proxy;
+import javax.net.ssl.SSLContext;
+import javax.net.ssl.TrustManager;
+import javax.net.ssl.X509TrustManager;
+import java.security.SecureRandom;
+import java.security.cert.X509Certificate;
+import org.openqa.selenium.support.ui.WebDriverWait;
+import java.time.Duration;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.interactions.Actions;
+import java.time.LocalDateTime;
+import java.time.format.DateTimeFormatter;
+import java.text.SimpleDateFormat;
+import java.util.Locale;
+import java.util.Date;
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.SearchContext;
+import org.openqa.selenium.*;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.support.ui.WebDriverWait;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import java.time.Duration;
+import io.testgrid.listeners.TestListener;
+import io.testgrid.listeners.RetryFailedTestCases;
+import io.testgrid.tg;
+import org.testng.annotations.*;
+import app.getxray.xray.testng.annotations.XrayTest;
+import io.testgrid.enums.ComparisonType;
+import org.json.JSONObject;
+import io.testgrid.enums.Direction;
+import io.testgrid.enums.Size;
+import io.testgrid.enums.Buttons;
+import static io.testgrid.baseClass.driver;
+import org.openqa.selenium.*;
+import static io.testgrid.enums.KeyboardKeys.*;
+import org.openqa.selenium.support.ui.Select;
+import java.net.*;
+import java.util.*;
+import java.io.*;
+import java.util.concurrent.TimeUnit;
+import org.openqa.selenium.remote.RemoteWebDriver;
+import org.testng.annotations.Test;
+
+class fndigitalwebenterpaymentdetailswithouttogglebtn {
+
+	public static void fndigitalwebenterpaymentdetailswithouttogglebtn() {
+		tg.wait("ele_digitalWebTextBoxCardHolderName", ComparisonType.IS_VISIBLE, 100);
+		tg.wait("ele_digitalWebTextBoxCardHolderName", ComparisonType.IS_CLICKABLE, 100);
+		tg.click("ele_digitalWebTextBoxCardHolderName", 1);
+		tg.type("ele_digitalWebTextBoxCardHolderName", "FiberAutomation Testcard");
+		tg.click("ele_digitalWebTextBoxCardNumber", 1);
+		tg.type("ele_digitalWebTextBoxCardNumber", "349956959041362");
+		tg.click("ele_digitalWebTextBoxCardExpiry", 1);
+		tg.type("ele_digitalWebTextBoxCardExpiry", "01/29");
+		tg.click("ele_digitalWebTextBoxCvv", 1);
+		tg.type("ele_digitalWebTextBoxCvv", "1111");
+		tg.pressKey(TAB, 1);
+		// [DISABLED] tg.click("ele_digitalWebToggleBtnAutoPay", 1);
+		tg.wait("ele_digitalWebBtnAgreeAndContinue", ComparisonType.IS_CLICKABLE, 20);
+		tg.click("ele_digitalWebBtnAgreeAndContinue", 1);
+	}
+}

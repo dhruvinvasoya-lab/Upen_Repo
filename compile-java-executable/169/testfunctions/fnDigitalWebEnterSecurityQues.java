@@ -1,0 +1,72 @@
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.ResultSet;
+import java.sql.Statement;
+import com.fasterxml.jackson.databind.JsonNode;
+import com.fasterxml.jackson.databind.ObjectMapper;
+import okhttp3.*;
+import javax.net.ssl.HostnameVerifier;
+import javax.net.ssl.SSLContext;
+import javax.net.ssl.SSLSession;
+import javax.net.ssl.TrustManager;
+import javax.net.ssl.X509TrustManager;
+import java.security.SecureRandom;
+import java.security.cert.X509Certificate;
+import java.net.InetSocketAddress;
+import java.net.Proxy;
+import javax.net.ssl.SSLContext;
+import javax.net.ssl.TrustManager;
+import javax.net.ssl.X509TrustManager;
+import java.security.SecureRandom;
+import java.security.cert.X509Certificate;
+import org.openqa.selenium.support.ui.WebDriverWait;
+import java.time.Duration;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.interactions.Actions;
+import java.time.LocalDateTime;
+import java.time.format.DateTimeFormatter;
+import io.testgrid.listeners.TestListener;
+import io.testgrid.listeners.RetryFailedTestCases;
+import io.testgrid.tg;
+import org.testng.annotations.*;
+import app.getxray.xray.testng.annotations.XrayTest;
+import io.testgrid.enums.ComparisonType;
+import org.json.JSONObject;
+import io.testgrid.enums.Direction;
+import io.testgrid.enums.Size;
+import io.testgrid.enums.Buttons;
+import static io.testgrid.baseClass.driver;
+import org.openqa.selenium.*;
+import static io.testgrid.enums.KeyboardKeys.*;
+import org.openqa.selenium.support.ui.Select;
+import java.net.*;
+import java.util.*;
+import java.io.*;
+import java.util.concurrent.TimeUnit;
+import org.openqa.selenium.remote.RemoteWebDriver;
+import org.testng.annotations.Test;
+
+class fndigitalwebentersecurityques {
+
+	public static void fndigitalwebentersecurityques() {
+		tg_String var_answer1 = "steffy";
+		tg_String var_answer2 = "austin";
+		tg_String var_answer3 = "rockingham";
+		tg.wait("ele_digitalWebDropDownSecurityQues1", ComparisonType.IS_CLICKABLE, 20);
+		tg.click("ele_digitalWebDropDownSelectSecurityQues1");
+		tg.wait("ele_digitalWebTextBoxSQAnswer1", ComparisonType.IS_CLICKABLE);
+		tg.click("ele_digitalWebTextBoxSQAnswer1");
+		tg.type("ele_digitalWebTextBoxSQAnswer1", var_answer1);
+		tg.click("ele_digitalWebDropDownSelectSecurityQues2");
+		tg.click("ele_digitalWebTextBoxSQAnswer2");
+		tg.type("ele_digitalWebTextBoxSQAnswer2", var_answer2);
+		tg.click("ele_digitalWebDropDownSelectSecurityQues3");
+		tg.click("ele_digitalWebTextBoxSQAnswer3");
+		tg.type("ele_digitalWebTextBoxSQAnswer3", var_answer3);
+		tg.pressKey(TAB, 1);
+		tg.wait("ele_digitalWebBtnSQNext", ComparisonType.IS_CLICKABLE);
+		tg.click("ele_digitalWebBtnSQNext");
+		tg.wait("ele_digitalWebLinkNoThanks", ComparisonType.IS_CLICKABLE, 40);
+		// [DISABLED] tg.click("ele_digitalWebLinkNoThanks");
+	}
+}

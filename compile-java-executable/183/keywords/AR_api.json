@@ -1,0 +1,13 @@
+{
+    "url": "https://jsonplaceholder.typicode.com/todos/1",
+    "method": "GET",
+    "trust_self_signed_ssl_certificate": false,
+    "headers": [],
+    "h_static": [],
+    "params": [],
+    "p_static": [],
+    "key_path": "title",
+    "resp_type": "json",
+    "key_type": "string",
+    "timeout": 30
+}

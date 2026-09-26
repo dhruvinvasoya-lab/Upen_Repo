@@ -1,0 +1,212 @@
+import org.openqa.selenium.*;
+import org.openqa.selenium.support.ui.WebDriverWait;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import static io.testgrid.baseClass.driver;
+import java.time.format.DateTimeFormatter;
+import java.time.LocalDateTime;
+import java.util.regex.*;
+import java.util.Random;
+import java.time.LocalDate;
+import org.json.JSONArray;
+import com.fasterxml.jackson.databind.JsonNode;
+import com.fasterxml.jackson.databind.ObjectMapper;
+import com.fasterxml.jackson.databind.node.ObjectNode;
+import java.net.HttpURLConnection;
+import java.net.URL;
+import java.io.BufferedReader;
+import java.io.InputStreamReader;
+import com.fasterxml.jackson.databind.JsonNode;
+import com.fasterxml.jackson.databind.ObjectMapper;
+import okhttp3.*;
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.ResultSet;
+import java.sql.Statement;
+import javax.net.ssl.HostnameVerifier;
+import javax.net.ssl.SSLContext;
+import javax.net.ssl.SSLSession;
+import javax.net.ssl.TrustManager;
+import javax.net.ssl.X509TrustManager;
+import java.security.SecureRandom;
+import java.security.cert.X509Certificate;
+import java.net.InetSocketAddress;
+import java.net.Proxy;
+import javax.net.ssl.SSLContext;
+import javax.net.ssl.TrustManager;
+import javax.net.ssl.X509TrustManager;
+import java.security.SecureRandom;
+import java.security.cert.X509Certificate;
+import org.openqa.selenium.support.ui.WebDriverWait;
+import java.time.Duration;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.interactions.Actions;
+import java.text.SimpleDateFormat;
+import java.util.Locale;
+import java.util.Date;
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.SearchContext;
+import org.openqa.selenium.*;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.support.ui.WebDriverWait;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import java.time.Duration;
+import io.testgrid.listeners.TestListener;
+import io.testgrid.listeners.RetryFailedTestCases;
+import io.testgrid.tg;
+import org.testng.annotations.*;
+import app.getxray.xray.testng.annotations.XrayTest;
+import io.testgrid.enums.ComparisonType;
+import org.json.JSONObject;
+import io.testgrid.enums.Direction;
+import io.testgrid.enums.Size;
+import io.testgrid.enums.Buttons;
+import static io.testgrid.baseClass.driver;
+import org.openqa.selenium.*;
+import static io.testgrid.enums.KeyboardKeys.*;
+import org.openqa.selenium.support.ui.Select;
+import java.net.*;
+import java.util.*;
+import java.io.*;
+import java.util.concurrent.TimeUnit;
+import org.openqa.selenium.remote.RemoteWebDriver;
+import org.testng.annotations.Test;
+
+@Listeners(TestListener.class);
+public class digital_mytmo_phonesdevices_aalexistinghsi_autopay_withoutdeposit {
+
+	@Test(retryAnalyzer = RetryFailedTestCases.class)
+	public void digital_mytmo_phonesdevices_aalexistinghsi_autopay_withoutdeposit() {
+		tg.openBrowser();
+		if(tg.performAssert(var_env, ComparisonType.EQUAL_TO, "Qlab03")){
+		tg.navigateToUrl("https://digital-qlab03.t-mobile.com/");
+		} else {
+		tg.navigateToUrl("https://digital-qlab02.t-mobile.com/");
+		}
+		var_username = tg.saveToVariable("3472132348@tmotest.com", var_username);
+		var_emailId = tg.saveToVariable(var_username, var_emailId);
+		var_password = tg.saveToVariable("pass@123", var_password);
+		var_address = tg.saveToVariable("91 christopher St, New York", var_address);
+		var_cardUserFirstName = tg.saveToVariable("Rebecca", var_cardUserFirstName);
+		// [DISABLED] START_CUSTOM_SCRIPT;
+		// [DISABLED] START_CUSTOM_SCRIPT;
+		// [DISABLED] START_CUSTOM_SCRIPT;
+		// [DISABLED] START_CUSTOM_SCRIPT;
+		// [DISABLED] START_CUSTOM_SCRIPT;
+		// [DISABLED] START_CUSTOM_SCRIPT;
+		// [DISABLED] START_CUSTOM_SCRIPT;
+		// [DISABLED] START_CUSTOM_SCRIPT;
+		// [DISABLED] START_CUSTOM_SCRIPT;
+		// [DISABLED] START_CUSTOM_SCRIPT;
+		// [DISABLED] START_CUSTOM_SCRIPT;
+		// [DISABLED] START_CUSTOM_SCRIPT;
+		// [DISABLED] driver.get(var_qlab02MyTMOURL);
+		// [DISABLED] END_CUSTOM_SCRIPT;
+		// [DISABLED] END_CUSTOM_SCRIPT;
+		// [DISABLED] END_CUSTOM_SCRIPT;
+		// [DISABLED] END_CUSTOM_SCRIPT;
+		// [DISABLED] END_CUSTOM_SCRIPT;
+		// [DISABLED] END_CUSTOM_SCRIPT;
+		// [DISABLED] END_CUSTOM_SCRIPT;
+		// [DISABLED] END_CUSTOM_SCRIPT;
+		// [DISABLED] END_CUSTOM_SCRIPT;
+		// [DISABLED] END_CUSTOM_SCRIPT;
+		// [DISABLED] END_CUSTOM_SCRIPT;
+		// [DISABLED] END_CUSTOM_SCRIPT;
+		tg.wait("ele_digitalMyTMOListMyaccount", ComparisonType.IS_VISIBLE);
+		tg.click("ele_digitalMyTMOListMyaccount", 1);
+		tg.wait("ele_digitalMyTMOLinkMyAccountLogin", ComparisonType.IS_VISIBLE);
+		tg.click("ele_digitalMyTMOLinkMyAccountLogin", 1);
+		tg.testFunction("fnDigitalWebMyTMOLogin_copy");
+		// [DISABLED] tg.wait("ele_digitalMyTMOTextLoginEmailorPhone", ComparisonType.IS_VISIBLE);
+		// [DISABLED] tg.click("ele_digitalMyTMOTextLoginEmailorPhone", 1);
+		// [DISABLED] tg.wait("ele_digitalMyTMOTextLoginEmailorPhone", ComparisonType.IS_VISIBLE);
+		// [DISABLED] tg.type("ele_digitalMyTMOTextLoginEmailorPhone", "MJBSHBEDA09289898@GMAIL.COM");
+		// [DISABLED] var_updateCardloginUserName = tg.saveToVariable("MJBSHBEDA09289898@GMAIL.COM", var_updateCardloginUserName);
+		// [DISABLED] tg.type("ele_digitalMyTMOTextLoginEmailorPhone", var_updateCardloginUserName);
+		// [DISABLED] tg.wait("ele_digitalMyTMOBtnLoginNext", ComparisonType.IS_VISIBLE);
+		// [DISABLED] tg.click("ele_digitalMyTMOBtnLoginNext", 1);
+		// [DISABLED] tg.wait("ele_digitalMyTMOTextLoginPassword", ComparisonType.IS_VISIBLE);
+		// [DISABLED] tg.click("ele_digitalMyTMOTextLoginPassword", 1);
+		// [DISABLED] tg.wait("ele_digitalMyTMOTextLoginPassword", ComparisonType.IS_VISIBLE);
+		// [DISABLED] var_updateCardloginUserPwd = tg.saveToVariable("pass@123", var_updateCardloginUserPwd);
+		// [DISABLED] tg.typeEncrypted("ele_digitalMyTMOTextLoginPassword", "Tul5JS6B3oEBl/Ix8pFjVQ==:MTIzNDU2Nzg5MTAxMTEyMQ==");
+		// [DISABLED] tg.type("ele_digitalMyTMOTextLoginPassword", var_updateCardloginUserPwd);
+		// [DISABLED] tg.wait("ele_digitalMyTMOBtnLoginLogin", ComparisonType.IS_VISIBLE);
+		// [DISABLED] tg.click("ele_digitalMyTMOBtnLoginLogin", 1);
+		// [DISABLED] tg.wait("ele_digitalMyTMOBtnLoginBeforeVerificationCodeContinue", ComparisonType.IS_VISIBLE);
+		// [DISABLED] tg.click("ele_digitalMyTMOBtnLoginBeforeVerificationCodeContinue", 1);
+		// [DISABLED] var_username = tg.saveToVariable(var_updateCardloginUserName, var_username);
+		// [DISABLED] var_updateCardNumber = tg.saveToVariable("4642340000000006", var_updateCardNumber);
+		tg.testFunction("fnDigitalWebGenerateIAM2FAPinUsingEmail_copy");
+		// [DISABLED] tg.testFunction("fnDigitalWebMiltonApiAuthTokenGenerationQlab02_copy");
+		// [DISABLED] tg.testFunction("fnDigitalWebFiberMiltonGenerate2FAPinQlab02_copy");
+		tg.wait("ele_digitalMyTMOLoginVerificationCode", ComparisonType.IS_VISIBLE, 20);
+		if(tg.performAssert("ele_digitalMyTMOLoginVerificationCode", ComparisonType.IS_VISIBLE)){
+		tg.click("ele_digitalMyTMOLoginVerificationCode", 1);
+		// [DISABLED] tg.wait("ele_digitalMyTMOLoginVerificationCode", ComparisonType.IS_VISIBLE);
+		tg.type("ele_digitalMyTMOLoginVerificationCode", var_mpin);
+		tg.wait("ele_digitalMyTMOBtnLoginPostVerificationCodeContinue", ComparisonType.IS_VISIBLE);
+		tg.click("ele_digitalMyTMOBtnLoginPostVerificationCodeContinue", 1);
+		}
+		// [DISABLED] START_CUSTOM_SCRIPT;
+		// [DISABLED] START_CUSTOM_SCRIPT;
+		// [DISABLED] START_CUSTOM_SCRIPT;
+		// [DISABLED] START_CUSTOM_SCRIPT;
+		// [DISABLED] START_CUSTOM_SCRIPT;
+		// [DISABLED] START_CUSTOM_SCRIPT;
+		// [DISABLED] START_CUSTOM_SCRIPT;
+		// [DISABLED] START_CUSTOM_SCRIPT;
+		// [DISABLED] START_CUSTOM_SCRIPT;
+		// [DISABLED] START_CUSTOM_SCRIPT;
+		// [DISABLED] }
+		// [DISABLED] START_CUSTOM_SCRIPT;
+		// [DISABLED] }
+		// [DISABLED] END_CUSTOM_SCRIPT;
+		// [DISABLED] END_CUSTOM_SCRIPT;
+		// [DISABLED] END_CUSTOM_SCRIPT;
+		// [DISABLED] END_CUSTOM_SCRIPT;
+		// [DISABLED] END_CUSTOM_SCRIPT;
+		// [DISABLED] END_CUSTOM_SCRIPT;
+		// [DISABLED] END_CUSTOM_SCRIPT;
+		// [DISABLED] END_CUSTOM_SCRIPT;
+		// [DISABLED] END_CUSTOM_SCRIPT;
+		// [DISABLED] END_CUSTOM_SCRIPT;
+		// [DISABLED] END_CUSTOM_SCRIPT;
+		// [DISABLED] var_cardUserFirstName = tg.saveToVariable("jhjxhdj", var_cardUserFirstName);
+		tg.wait("ele_digitalMyTMOListHomeUsername", ComparisonType.IS_VISIBLE);
+		tg.check.contains("ele_digitalMyTMOListHomeUsername",var_cardUserFirstName);
+		// [DISABLED] tg.click("ele_digitalMyTMOListHomeUsername", 1);
+		// [DISABLED] tg.wait("ele_digitalMyTMOListItemProfile", ComparisonType.IS_VISIBLE);
+		tg.wait("ele_digitalMyTMOLinkHomepageHomeInternet", ComparisonType.IS_VISIBLE, 40);
+		tg.click("ele_digitalMyTMOLinkHomepageHomeInternet", 1);
+		tg.wait(10);
+		if(tg.performAssert("ele_tmoDigitalWebHomeInternetDialogBtnClose", ComparisonType.IS_VISIBLE)){
+		tg.click("ele_tmoDigitalWebHomeInternetDialogBtnClose");
+		}
+		if(tg.performAssert("ele_mytmointernetpageLinkEdit", ComparisonType.IS_VISIBLE)){
+		tg.click("ele_mytmointernetpageLinkEdit");
+		}
+		tg.wait(5);
+		if(tg.performAssert("ele_mytmointernetpageBtnEdit", ComparisonType.IS_VISIBLE)){
+		tg.click("ele_mytmointernetpageBtnEdit", 1);
+		}
+		tg.wait("ele_myTmoTextBoxAddress", ComparisonType.IS_CLICKABLE, 40);
+		tg.click("ele_myTmoTextBoxAddress");
+		tg.type("ele_myTmoTextBoxAddress", var_address);
+		tg.click("ele_mytmointernetpageDrodownSelectAddress");
+		// [DISABLED] tg.pressKey(ENTER, 1);
+		tg.wait("ele_myTmoTextBoxUnitNo", ComparisonType.IS_CLICKABLE);
+		tg.click("ele_myTmoTextBoxUnitNo");
+		tg.type("ele_myTmoTextBoxUnitNo", "apt 10");
+		tg.wait("ele_myTmoBtnSeeAvailablePlans", ComparisonType.IS_CLICKABLE);
+		tg.click("ele_myTmoBtnSeeAvailablePlans");
+		tg.wait("ele_myTmoBtnShopFiberPlans", ComparisonType.IS_CLICKABLE, 50);
+		tg.check.isVisible("ele_myTmoBtnShopFiberPlans");
+		tg.wait("ele_myTmoTextVisibleFiber300", ComparisonType.IS_VISIBLE);
+		tg.wait("ele_myTmoTextVisibleFiber1Gig", ComparisonType.IS_VISIBLE);
+		tg.check.isVisible("ele_myTmoTextVisibleFiber300");
+		tg.check.isVisible("ele_myTmoTextVisibleFiber1Gig");
+		tg.close();
+	}
+}

@@ -1,0 +1,126 @@
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.ResultSet;
+import java.sql.Statement;
+import com.fasterxml.jackson.databind.JsonNode;
+import com.fasterxml.jackson.databind.ObjectMapper;
+import okhttp3.*;
+import javax.net.ssl.HostnameVerifier;
+import javax.net.ssl.SSLContext;
+import javax.net.ssl.SSLSession;
+import javax.net.ssl.TrustManager;
+import javax.net.ssl.X509TrustManager;
+import java.security.SecureRandom;
+import java.security.cert.X509Certificate;
+import java.net.InetSocketAddress;
+import java.net.Proxy;
+import javax.net.ssl.SSLContext;
+import javax.net.ssl.TrustManager;
+import javax.net.ssl.X509TrustManager;
+import java.security.SecureRandom;
+import java.security.cert.X509Certificate;
+import org.openqa.selenium.support.ui.WebDriverWait;
+import java.time.Duration;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.interactions.Actions;
+import java.time.LocalDateTime;
+import java.time.format.DateTimeFormatter;
+import java.text.SimpleDateFormat;
+import java.util.Locale;
+import java.util.Date;
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.SearchContext;
+import org.openqa.selenium.*;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.support.ui.WebDriverWait;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import java.time.Duration;
+import io.testgrid.listeners.TestListener;
+import io.testgrid.listeners.RetryFailedTestCases;
+import io.testgrid.tg;
+import org.testng.annotations.*;
+import app.getxray.xray.testng.annotations.XrayTest;
+import io.testgrid.enums.ComparisonType;
+import org.json.JSONObject;
+import io.testgrid.enums.Direction;
+import io.testgrid.enums.Size;
+import io.testgrid.enums.Buttons;
+import static io.testgrid.baseClass.driver;
+import org.openqa.selenium.*;
+import static io.testgrid.enums.KeyboardKeys.*;
+import org.openqa.selenium.support.ui.Select;
+import java.net.*;
+import java.util.*;
+import java.io.*;
+import java.util.concurrent.TimeUnit;
+import org.openqa.selenium.remote.RemoteWebDriver;
+import org.testng.annotations.Test;
+
+@Listeners(TestListener.class);
+public class test01apifunctions_copy {
+
+	@Test(retryAnalyzer = RetryFailedTestCases.class)
+	public void test01apifunctions_copy() {
+		tg.openBrowser();
+		// [DISABLED] tg.wait(2);
+		// [DISABLED] tg.testFunction("fnDigitalWebFiberTdmGsmApiRequestQlab03_copy");
+		// [DISABLED] var_emailId = tg.saveToVariable("fsbautomation_TG_20260330222154@yahoo.com", var_emailId);
+		// [DISABLED] tg.testFunction("fnDigitalWebMiltonApiAuthTokenGenQlab03_copy");
+		// [DISABLED] tg.testFunction("fnDigitalWebFiberCvsPinApiRequestQlab03_copy");
+		// [DISABLED] tg.testFunction("fnDigitalWebFiberDataBaseApiTokenGeneration_copy");
+		// [DISABLED] tg.testFunction("fnDigitalWebFiberSamonDbApiRequest_copy");
+		// [DISABLED] tg.testFunction("fnDigitalWebFiberCvsPinGenerationQlab02_copy");
+		// [DISABLED] tg.printLogs(var_cvsPin);
+		// [DISABLED] var_ban = tg.saveToVariable("974276021", var_ban);
+		// [DISABLED] var_query = tg.saveToVariable("select * from billing_account where ban='974276021'", var_query);
+		// [DISABLED] var_envName = tg.saveToVariable("QLAB03", var_envName);
+		// [DISABLED] var_databaseName = tg.saveToVariable("samson", var_databaseName);
+		// [DISABLED] tg.testFunction("fnDigitalWebFiberDataBaseApiTokenGeneration_copy");
+		// [DISABLED] tg.testFunction("fnDigitalWebFiberGetPOUnifiedServiceApiRequest_copy");
+		// [DISABLED] tg.testFunction("fnDigitalWebFiberSamonDbApiRequest_copy");
+		// [DISABLED] var_address = tg.saveToVariable("55 Delancey Street", var_address);
+		// [DISABLED] tg.testFunction("fnDigitalWebFiberCheckAvailability_copy");
+		// [DISABLED] var_firstName = tg.saveToVariable("Ftddgcyfwd", var_firstName);
+		// [DISABLED] var_lastName = tg.saveToVariable("Rldnxxzrw", var_lastName);
+		// [DISABLED] var_envName = tg.saveToVariable("QLAB03", var_envName);
+		// [DISABLED] var_databaseName = tg.saveToVariable("samson", var_databaseName);
+		// [DISABLED] tg.testFunction("fnDigitalWebFiberGetBanFromSamsonDB_copy");
+		// [DISABLED] tg.printLogs(var_ban);
+		// [DISABLED] tg.testFunction("fnDigitalWebFiberGetBillingAccountDetailsFromSamson_copy");
+		// [DISABLED] tg.testFunction("fnDigitalWebFiberGetSubscriberFromSamson_copy");
+		// [DISABLED] tg.testFunction("fnDigitalWebFiberGetCustomerFromSamson_copy");
+		// [DISABLED] tg.testFunction("fnDigitalWebFiberGetServiceAgreementFromSamson_copy");
+		// [DISABLED] tg.testFunction("fnDigitalWebFiberGetBanCreditLimitFromSamson_copy");
+		// [DISABLED] tg.testFunction("fnDigitalWebMiltonApiAuthTokenGenQlab03_copy");
+		// [DISABLED] tg.testFunction("fnDigitalWebFiberMiltonGenerate2FAPinQlab03_copy");
+		// [DISABLED] tg.navigateToUrl("https://qlab02staging.globalnav.t-mobile.com/");
+		// [DISABLED] tg.wait("ele_accountid916", ComparisonType.IS_VISIBLE);
+		// [DISABLED] tg.testFunction("fnDigitalWebLotusFlareActivateSubscriber_copy");
+		// [DISABLED] tg.wait("ele_DigitalWebMessageNeedHelp", ComparisonType.IS_VISIBLE);
+		// [DISABLED] tg.click("ele_DigitalWebMessageNeedHelp", 1);
+		// [DISABLED] tg.wait("ele_DigitalWebBtnCallus", ComparisonType.IS_VISIBLE);
+		// [DISABLED] tg.click("ele_DigitalWebBtnCallus", 1);
+		var_mobileNumber = tg.saveToVariable("5669040249", var_mobileNumber);
+		tg.testFunction("fnDigitalWebMiltonApiAuthTokenGenQlab03_copy");
+		tg.testFunction("fnDigitalWebFiberMiltonGenerate2FAPinUsingMSISDNQlab03_copy");
+		tg.wait("ele_mytmoAccountpageLinkSeedevicedetails", ComparisonType.IS_VISIBLE);
+		tg.click("ele_mytmoAccountpageLinkSeedevicedetails", 1);
+		if(tg.performAssert("ele_Accept91174012039865", ComparisonType.IS_VISIBLE)){
+		tg.click("ele_Accept911740120398651767721221", 1);
+		}
+		tg.wait("ele_Accept911740120398651767721221", ComparisonType.IS_VISIBLE);
+		tg.wait("ele_mytmoaccountpageBtnFiberGateway", ComparisonType.IS_VISIBLE);
+		tg.click("ele_mytmoaccountpageBtnFiberGateway", 1);
+		tg.wait("ele_buttontgwebcomma686", ComparisonType.IS_VISIBLE);
+		tg.click("ele_buttontgwebcomma686", 1);
+		tg.wait("ele_mytmoAccountpagebtnViewplandetails", ComparisonType.IS_VISIBLE);
+		tg.click("ele_mytmoAccountpagebtnViewplandetails", 1);
+		tg.wait("ele_viewplande631", ComparisonType.IS_VISIBLE);
+		tg.performDoubleClick("ele_viewplande631");
+		if(tg.performAssert("ele_mytmoaccountpageBtnFiberGateway", ComparisonType.IS_VISIBLE)){
+		tg.wait(5);
+		}
+		tg.close();
+	}
+}

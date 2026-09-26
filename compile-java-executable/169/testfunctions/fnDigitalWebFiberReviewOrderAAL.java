@@ -1,0 +1,86 @@
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.ResultSet;
+import java.sql.Statement;
+import com.fasterxml.jackson.databind.JsonNode;
+import com.fasterxml.jackson.databind.ObjectMapper;
+import okhttp3.*;
+import javax.net.ssl.HostnameVerifier;
+import javax.net.ssl.SSLContext;
+import javax.net.ssl.SSLSession;
+import javax.net.ssl.TrustManager;
+import javax.net.ssl.X509TrustManager;
+import java.security.SecureRandom;
+import java.security.cert.X509Certificate;
+import java.net.InetSocketAddress;
+import java.net.Proxy;
+import javax.net.ssl.SSLContext;
+import javax.net.ssl.TrustManager;
+import javax.net.ssl.X509TrustManager;
+import java.security.SecureRandom;
+import java.security.cert.X509Certificate;
+import org.openqa.selenium.support.ui.WebDriverWait;
+import java.time.Duration;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.interactions.Actions;
+import java.time.LocalDateTime;
+import java.time.format.DateTimeFormatter;
+import java.text.SimpleDateFormat;
+import java.util.Locale;
+import java.util.Date;
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.SearchContext;
+import org.openqa.selenium.*;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.support.ui.WebDriverWait;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import java.time.Duration;
+import io.testgrid.listeners.TestListener;
+import io.testgrid.listeners.RetryFailedTestCases;
+import io.testgrid.tg;
+import org.testng.annotations.*;
+import app.getxray.xray.testng.annotations.XrayTest;
+import io.testgrid.enums.ComparisonType;
+import org.json.JSONObject;
+import io.testgrid.enums.Direction;
+import io.testgrid.enums.Size;
+import io.testgrid.enums.Buttons;
+import static io.testgrid.baseClass.driver;
+import org.openqa.selenium.*;
+import static io.testgrid.enums.KeyboardKeys.*;
+import org.openqa.selenium.support.ui.Select;
+import java.net.*;
+import java.util.*;
+import java.io.*;
+import java.util.concurrent.TimeUnit;
+import org.openqa.selenium.remote.RemoteWebDriver;
+import org.testng.annotations.Test;
+
+class fndigitalwebfiberrevieworderaal {
+
+	public static void fndigitalwebfiberrevieworderaal() {
+		// ReviewOrderPageAssertions
+		tg.wait("ele_digitalWebLabelValueName", ComparisonType.IS_VISIBLE, 100);
+		tg.wait(5);
+		tg_String var_eleValueName = "";
+		tg_String var_eleValueEmail = "";
+		tg_String var_eleValuePhone = "";
+		tg_String var_eleValueAdd = "";
+		var_eleValueName = tg.saveToVariable("ele_digitalWebLabelValueName", var_eleValueName);
+		var_eleValueEmail = tg.saveToVariable("ele_digitalWebLabelValueEmail", var_eleValueEmail);
+		var_eleValuePhone = tg.saveToVariable("ele_digitalWebLabelValuePhone", var_eleValuePhone);
+		var_eleValueAdd = tg.saveToVariable("ele_digitalWebLabelValueAddress", var_eleValueAdd);
+		tg.printLogs("ele_digitalWebLabelValuePlanSelected");
+		tg.printLogs(var_eleValueName);
+		tg.printLogs(var_eleValueEmail);
+		tg.printLogs(var_eleValuePhone);
+		tg.printLogs(var_eleValueAdd);
+		tg.wait("ele_digitalWebLabelValueInstallationDate", ComparisonType.IS_VISIBLE);
+		tg_String var_eleLabelValueDateReviewOrder = "";
+		var_eleLabelValueDateReviewOrder = tg.saveToVariable("ele_digitalWebLabelValueInstallationDate", var_eleLabelValueDateReviewOrder);
+		tg.printLogs(var_eleLabelValueDateReviewOrder);
+		tg.wait("ele_digitalWebBtnSubmitOrder", ComparisonType.IS_CLICKABLE);
+		tg.click("ele_digitalWebBtnSubmitOrder", 1);
+	}
+}
