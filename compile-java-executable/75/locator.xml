@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locators>
+  <locator name="ele_FastestfreeserverTextView">
+    <element type="xpath">(//android.widget.TextView[@text='Fastest free server'])[1]</element>
+    <element type="id">primaryLabel</element>
+    <element type="xpath">(//android.widget.TextView[contains(@resource-id,'primaryLabel')])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View[3]/android.view.View/android.view.View/android.view.View[2]/android.view.View/android.view.View/android.view.View/android.widget.TextView</element>
+    <element type="image">http://192.168.4.30/s/ele-imgs/75/1354.png</element>
+  </locator>
+  <locator name="ele_ConnectTextView">
+    <element type="xpath">(//android.widget.TextView[@text='Connect'])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View[3]/android.view.View/android.view.View/android.view.View[2]/android.view.View/android.view.View[2]/android.widget.TextView</element>
+    <element type="image">http://192.168.4.30/s/ele-imgs/75/1355.png</element>
+  </locator>
+  <locator name="ele_UnitedStates">
+    <element type="xpath">//android.widget.TextView[contains(@content-desc, 'United States ·')]</element>
+    <element type="xpath">//android.widget.TextView[@text='United States 12.133.14.195']</element>
+    <element type="xpath">//android.widget.TextView[@index='0']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.widget.TextView</element>
+    <element type="xpath">//android.widget.TextView[@text='You are unprotected']</element>
+    <element type="xpath">//android.widget.TextView[@index='2']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.widget.TextView</element>
+    <element type="xpath">//android.view.View[@index='3']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View[2]</element>
+    <element type="xpath">//android.view.View[@index='1']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View</element>
+    <element type="xpath">//android.view.View[@index='0']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View</element>
+    <element type="xpath">//androidx.compose.ui.platform.ComposeView[@index='0']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView</element>
+    <element type="image">http://192.168.4.30/s/ele-imgs/75/1356.png</element>
+  </locator>
+  <locator name="ele_ConnectionrequestTextView">
+    <element type="xpath">(//android.widget.TextView[@text='Connection request'])[1]</element>
+    <element type="id">android:id/alertTitle</element>
+    <element type="xpath">(//android.widget.TextView[contains(@resource-id,'alertTitle')])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.TextView</element>
+    <element type="image">http://192.168.4.30/s/ele-imgs/75/1357.png</element>
+  </locator>
+  <locator name="ele_OKButton">
+    <element type="xpath">(//android.widget.Button[@text='OK'])[1]</element>
+    <element type="id">android:id/button1</element>
+    <element type="xpath">(//android.widget.Button[contains(@resource-id,'button1')])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.Button[2]</element>
+    <element type="image">http://192.168.4.30/s/ele-imgs/75/1358.png</element>
+  </locator>
+  <locator name="ele_Enablenotificationstogetalertedaboutchanges">
+    <element type="xpath">(//android.widget.TextView[@text='Enable notifications to get alerted about changes to your connection status.'])[1]</element>
+    <element type="xpath">//android.widget.TextView[@index='0']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.FrameLayout/android.widget.LinearLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.widget.TextView</element>
+    <element type="xpath">//android.widget.TextView[@text='Enable notifications to get alerted about changes to your connection status.']</element>
+    <element type="xpath">//android.widget.TextView[@index='1']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.FrameLayout/android.widget.LinearLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.widget.TextView[2]</element>
+    <element type="xpath">//android.view.View[@index='0']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.FrameLayout/android.widget.LinearLayout/android.view.View</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.FrameLayout/android.widget.LinearLayout/androidx.compose.ui.platform.ComposeView/android.view.View</element>
+    <element type="id">ch.protonvpn.android:id/touch_outside</element>
+    <element type="xpath">//android.view.View[contains(@resource-id,'touch_outside')]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.View</element>
+    <element type="id">ch.protonvpn.android:id/composeView</element>
+    <element type="xpath">//androidx.compose.ui.platform.ComposeView[contains(@resource-id,'composeView')]</element>
+    <element type="xpath">//androidx.compose.ui.platform.ComposeView[@index='1']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.FrameLayout/android.widget.LinearLayout/androidx.compose.ui.platform.ComposeView</element>
+    <element type="image">http://192.168.4.30/s/ele-imgs/75/1359.png</element>
+  </locator>
+  <locator name="ele_EnablenotificationsTextView">
+    <element type="xpath">(//android.widget.TextView[@text='Enable notifications'])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.FrameLayout/android.widget.LinearLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.widget.TextView</element>
+    <element type="image">http://192.168.4.30/s/ele-imgs/75/1360.png</element>
+  </locator>
+  <locator name="ele_AllowButton">
+    <element type="xpath">(//android.widget.Button[@text='Allow'])[1]</element>
+    <element type="id">com.android.permissioncontroller:id/permission_allow_button</element>
+    <element type="xpath">(//android.widget.Button[contains(@resource-id,'permission_allow_button')])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.LinearLayout[2]/android.widget.Button</element>
+    <element type="image">http://192.168.4.30/s/ele-imgs/75/1361.png</element>
+  </locator>
+  <locator name="ele_MyIPTextView">
+    <element type="xpath">(//android.widget.TextView[@text='My IP'])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.widget.ScrollView/android.view.View[3]/android.view.View/android.widget.TextView</element>
+    <element type="image">http://192.168.4.30/s/ele-imgs/75/1362.png</element>
+  </locator>
+  <locator name="ele_ShowIPView1790333227014">
+    <element type="xpath">(//android.view.View[@content-desc='Show IP'])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.widget.ScrollView/android.view.View[3]/android.view.View/android.view.View</element>
+    <element type="image">http://192.168.4.30/s/ele-imgs/75/1363.png</element>
+  </locator>
+  <locator name="ele_BackView">
+    <element type="xpath">(//android.view.View[@content-desc='Back'])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View</element>
+    <element type="image">http://192.168.4.30/s/ele-imgs/75/1364.png</element>
+  </locator>
+  <locator name="ele_ContinueButton">
+    <element type="xpath">(//android.widget.Button[@text='Continue'])[1]</element>
+    <element type="id">com.android.chrome:id/positive_button</element>
+    <element type="xpath">(//android.widget.Button[contains(@resource-id,'positive_button')])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.view.ViewGroup/android.widget.Button[2]</element>
+    <element type="image">http://192.168.4.30/s/ele-imgs/75/1365.png</element>
+  </locator>
+  <locator name="ele_SearchGoogleortypeURLEditText">
+    <element type="xpath">(//android.widget.EditText[@text='Search Google or type URL'])[1]</element>
+    <element type="id">com.android.chrome:id/search_box_text</element>
+    <element type="xpath">(//android.widget.EditText[contains(@resource-id,'search_box_text')])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.FrameLayout/android.widget.FrameLayout[2]/android.view.ViewGroup/androidx.recyclerview.widget.RecyclerView/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.RelativeLayout/android.widget.EditText</element>
+    <element type="xpath">(//android.widget.EditText[@hint='Search Google or type URL'])[1]</element>
+    <element type="image">http://192.168.4.30/s/ele-imgs/75/1366.png</element>
+  </locator>
+  <locator name="ele_DisconnectTextView">
+    <element type="xpath">(//android.widget.TextView[@text='Disconnect'])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View[3]/android.view.View/android.view.View/android.view.View[2]/android.view.View/android.view.View[2]/android.widget.TextView</element>
+    <element type="image">http://192.168.4.30/s/ele-imgs/75/1367.png</element>
+  </locator>
+  <locator name="ele_FetchIPTextView">
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.widget.ScrollView/android.view.View[3]/android.view.View/android.widget.TextView[2]</element>
+    <element type="xpath">(//android.widget.TextView[@text='12.133.14.195'])[1]</element>
+    <element type="image">http://192.168.4.30/s/ele-imgs/75/1368.png</element>
+  </locator>
+  <locator name="ele_Continueasguest">
+    <element type="xpath">(//android.widget.Button[@text='Continue as guest'])[1]</element>
+    <element type="id">ch.protonvpn.android:id/sign_in_guest</element>
+    <element type="xpath">(//android.widget.Button[contains(@resource-id,'sign_in_guest')])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.Button</element>
+    <element type="image">http://192.168.4.30/s/ele-imgs/75/1369.png</element>
+  </locator>
+  <locator name="ele_NotnowTextView1790342964457">
+    <element type="xpath">(//android.view.View[3]/android.widget.TextView)[4]</element>
+    <element type="xpath">(//android.widget.TextView[@text='Not now'])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View[3]/android.widget.TextView</element>
+    <element type="image">http://192.168.4.30/s/ele-imgs/75/1370.png</element>
+  </locator>
+  <locator name="ele_GooglePlay">
+    <element type="id">com.android.vending:id/0_resource_name_obfuscated</element>
+    <element type="xpath">(//android.widget.ImageView[contains(@resource-id,'0_resource_name_obfuscated')])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.ImageView</element>
+    <element type="image">http://192.168.4.30/s/ele-imgs/75/1371.png</element>
+  </locator>
+  <locator name="ele_NothanksTextView1790344118271">
+    <element type="xpath">(//android.widget.TextView[@text='No thanks'])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.FrameLayout/android.widget.LinearLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View[2]/android.widget.TextView</element>
+    <element type="image">http://192.168.4.30/s/ele-imgs/75/1372.png</element>
+  </locator>
+  <locator name="ele_CloseView1790344356560">
+    <element type="xpath">(//android.view.View[@content-desc='Close'])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View[2]/android.view.View/android.view.View/android.view.View</element>
+    <element type="image">http://192.168.4.30/s/ele-imgs/75/1373.png</element>
+  </locator>
+  <locator name="ele_homebuttonImageButton1790344758037">
+    <element type="id">com.android.chrome:id/home_button</element>
+    <element type="xpath">(//android.widget.ImageButton[contains(@resource-id,'home_button')])[1]</element>
+    <element type="xpath">(//android.widget.ImageButton[@content-desc='Open the home page'])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.FrameLayout[2]/android.view.ViewGroup/android.widget.FrameLayout/android.widget.ImageButton</element>
+    <element type="image">http://192.168.4.30/s/ele-imgs/75/1374.png</element>
+  </locator>
+  <locator name="ele_ShowmoreinfoTextView1790344803994">
+    <element type="xpath">(//android.widget.TextView[@text='Show more info'])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.FrameLayout/android.widget.FrameLayout[2]/android.webkit.WebView/android.view.View[4]/android.view.View/android.view.View/android.widget.TextView</element>
+    <element type="image">http://192.168.4.30/s/ele-imgs/75/1375.png</element>
+  </locator>
+  <locator name="ele_CurruntIPAddressTextView">
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.widget.TextView</element>
+    <element type="xpath">(//android.widget.TextView[@text='United States 12.133.14.195'])[1]</element>
+    <element type="image">http://192.168.4.30/s/ele-imgs/75/1376.png</element>
+  </locator>
+  <locator name="ele_NewPublicIPFetch">
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.widget.ScrollView/android.view.View[3]/android.view.View[2]/android.widget.TextView[2]</element>
+    <element type="xpath">(//android.widget.TextView[@text='146.70.202.84'])[1]</element>
+    <element type="image">http://192.168.4.30/s/ele-imgs/75/1377.png</element>
+  </locator>
+</locators>
