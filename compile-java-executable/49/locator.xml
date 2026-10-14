@@ -44,7 +44,7 @@
     <element type="xpath">//div[5]/div/label</element>
     <element type="image">http://10.0.161.5/s/ele-imgs/49/746.png</element>
   </locator>
-  <locator name="ele_Asia455566">
+  <locator name="ele_Asia4555">
     <element type="xpath">//android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.view.ViewGroup[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[2]/android.view.ViewGroup[1]/androidx.recyclerview.widget.RecyclerView[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.LinearLayout[1]/android.widget.RelativeLayout[1]/android.widget.EditText[1]</element>
     <element type="image">http://10.0.161.5/s/ele-imgs/49/747.png</element>
   </locator>

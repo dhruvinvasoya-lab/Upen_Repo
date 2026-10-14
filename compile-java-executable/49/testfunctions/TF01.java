@@ -38,10 +38,5 @@ class tf01 {
 		tg.wait("ele_lastname033", ComparisonType.IS_VISIBLE);
 		tg.click("ele_lastname033", 1);
 		tg.wait("ele_lastname033", ComparisonType.IS_VISIBLE);
-		tg.type("ele_lastname033", "hiii");
-		tg.wait(5);
-		tg.wait("ele_male440", ComparisonType.IS_VISIBLE);
-		tg.click("ele_male440", 1);
-		tg.wait(5);
 	}
 }

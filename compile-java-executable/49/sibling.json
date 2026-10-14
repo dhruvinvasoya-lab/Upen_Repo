@@ -448,7 +448,7 @@
             "image_url": "http://10.0.161.5/s/ele-imgs/49/746.png"
         },
         {
-            "testcase_element": "ele_Asia455566",
+            "testcase_element": "ele_Asia4555",
             "tg_text": "",
             "sibling_selector": [],
             "locator": [
@@ -460,7 +460,7 @@
                     "d_w": 222,
                     "d_x": 802,
                     "d_y": 900,
-                    "suggest_name": "Asia455566"
+                    "suggest_name": "Asia4555"
                 }
             ],
             "iframe_and_shadow_root_data": [],

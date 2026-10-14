@@ -46,6 +46,8 @@ public class registerdemo {
 		tg.wait("ele_male440", ComparisonType.IS_VISIBLE);
 		tg.click("ele_male440", 1);
 		tg.wait(5);
+		tg.tapByImage("ele_submit", 0.35);
+		tg.wait(5);
 		tg.close();
 	}
 }
