@@ -1,3 +1,11 @@
+import com.mongodb.*;
+import org.bson.BsonDocument;
+import org.bson.BsonInt64;
+import org.bson.Document;
+import org.bson.conversions.Bson;
+import com.mongodb.client.MongoClient;
+import com.mongodb.client.MongoClients;
+import com.mongodb.client.MongoDatabase;
 import io.testgrid.listeners.TestListener;
 import io.testgrid.listeners.RetryFailedTestCases;
 import io.testgrid.tg;
@@ -34,6 +42,7 @@ public class registerdemo {
 		tg.click("ele_lastname033", 1);
 		tg.wait("ele_lastname033", ComparisonType.IS_VISIBLE);
 		tg.type("ele_lastname033", "hiii");
+		tg.wait(5);
 		tg.wait("ele_male440", ComparisonType.IS_VISIBLE);
 		tg.click("ele_male440", 1);
 		tg.wait(5);
