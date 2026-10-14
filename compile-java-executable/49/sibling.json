@@ -1,0 +1,451 @@
+{
+    "elements": [
+        {
+            "testcase_element": "ele_firstname663",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "col-md-4 col-xs-4 col-sm-4"
+                    },
+                    "tg_text": null
+                },
+                "current_element_attrs": {
+                    "tag": "input",
+                    "tg_attributes": {
+                        "type": "text",
+                        "placeholder": "First Name",
+                        "class": "form-control ng-pristine ng-untouched ng-invalid ng-invalid-required",
+                        "ng-model": "FirstName",
+                        "required": ""
+                    },
+                    "tg_text": null
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//input[@placeholder='First Name']",
+                    "locator_id": "3",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 723,
+                    "d_y": 222,
+                    "suggest_name": "firstname663"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//form[@id='basicBootstrapForm']/div/div/input",
+                    "locator_id": "3",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 723.75,
+                    "d_y": 222.59375,
+                    "suggest_name": "firstname663"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "input.form-control.ng-pristine.ng-untouched.ng-invalid.ng-invalid-required",
+                    "locator_id": "9",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 723.75,
+                    "d_y": 222.59375,
+                    "suggest_name": "firstname663"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "form#basicBootstrapForm > div > div > inputTGWEBCOMMA5",
+                    "locator_id": "9",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 723.75,
+                    "d_y": 222.59375,
+                    "suggest_name": "firstname663"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//input",
+                    "locator_id": "3",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 723.75,
+                    "d_y": 222.59375,
+                    "suggest_name": "firstname663"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "form-control ng-pristine ng-untouched ng-invalid ng-invalid-requiredTGWEBCOMMA1",
+                    "locator_id": "6",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 723.75,
+                    "d_y": 222.59375,
+                    "suggest_name": "firstname663"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.161.5/s/ele-imgs/46/712.png"
+        },
+        {
+            "testcase_element": "ele_firstname469",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "col-md-4 col-xs-4 col-sm-4"
+                    },
+                    "tg_text": null
+                },
+                "current_element_attrs": {
+                    "tag": "input",
+                    "tg_attributes": {
+                        "type": "text",
+                        "placeholder": "First Name",
+                        "class": "form-control ng-untouched ng-dirty ng-valid-parse ng-valid ng-valid-required",
+                        "ng-model": "FirstName",
+                        "required": "",
+                        "value": "hiii"
+                    },
+                    "tg_text": null
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//input[@placeholder='First Name']",
+                    "locator_id": "3",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 723,
+                    "d_y": 222,
+                    "suggest_name": "firstname469"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//form[@id='basicBootstrapForm']/div/div/input",
+                    "locator_id": "3",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 723.75,
+                    "d_y": 222.59375,
+                    "suggest_name": "firstname469"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "input.form-control.ng-untouched.ng-dirty.ng-valid-parse.ng-valid.ng-valid-required",
+                    "locator_id": "9",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 723.75,
+                    "d_y": 222.59375,
+                    "suggest_name": "firstname469"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "form#basicBootstrapForm > div > div > inputTGWEBCOMMA5",
+                    "locator_id": "9",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 723.75,
+                    "d_y": 222.59375,
+                    "suggest_name": "firstname469"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//input",
+                    "locator_id": "3",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 723.75,
+                    "d_y": 222.59375,
+                    "suggest_name": "firstname469"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "form-control ng-untouched ng-dirty ng-valid-parse ng-valid ng-valid-requiredTGWEBCOMMA1",
+                    "locator_id": "6",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 723.75,
+                    "d_y": 222.59375,
+                    "suggest_name": "firstname469"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.161.5/s/ele-imgs/46/713.png"
+        },
+        {
+            "testcase_element": "ele_lastname033",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "col-md-4 col-xs-4 col-sm-4"
+                    },
+                    "tg_text": null
+                },
+                "current_element_attrs": {
+                    "tag": "input",
+                    "tg_attributes": {
+                        "type": "text",
+                        "placeholder": "Last Name",
+                        "class": "form-control ng-pristine ng-untouched ng-invalid ng-invalid-required",
+                        "ng-model": "LastName",
+                        "required": ""
+                    },
+                    "tg_text": null
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//input[@placeholder='Last Name']",
+                    "locator_id": "3",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 918,
+                    "d_y": 222,
+                    "suggest_name": "lastname033"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//form[@id='basicBootstrapForm']/div/div[2]/input",
+                    "locator_id": "3",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 918.75,
+                    "d_y": 222.59375,
+                    "suggest_name": "lastname033"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "input.form-control.ng-pristine.ng-untouched.ng-invalid.ng-invalid-required",
+                    "locator_id": "9",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 918.75,
+                    "d_y": 222.59375,
+                    "suggest_name": "lastname033"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "form#basicBootstrapForm > div > div:nth-of-type(2) > inputTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 918.75,
+                    "d_y": 222.59375,
+                    "suggest_name": "lastname033"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[2]/input",
+                    "locator_id": "3",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 918.75,
+                    "d_y": 222.59375,
+                    "suggest_name": "lastname033"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "form-control ng-pristine ng-untouched ng-invalid ng-invalid-requiredTGWEBCOMMA2",
+                    "locator_id": "6",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 918.75,
+                    "d_y": 222.59375,
+                    "suggest_name": "lastname033"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.161.5/s/ele-imgs/46/714.png"
+        },
+        {
+            "testcase_element": "ele_lastname854",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "col-md-4 col-xs-4 col-sm-4"
+                    },
+                    "tg_text": null
+                },
+                "current_element_attrs": {
+                    "tag": "input",
+                    "tg_attributes": {
+                        "type": "text",
+                        "placeholder": "Last Name",
+                        "class": "form-control ng-untouched ng-dirty ng-valid-parse ng-valid ng-valid-required",
+                        "ng-model": "LastName",
+                        "required": "",
+                        "value": "hiii"
+                    },
+                    "tg_text": null
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//input[@placeholder='Last Name']",
+                    "locator_id": "3",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 918,
+                    "d_y": 222,
+                    "suggest_name": "lastname854"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//form[@id='basicBootstrapForm']/div/div[2]/input",
+                    "locator_id": "3",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 918.75,
+                    "d_y": 222.59375,
+                    "suggest_name": "lastname854"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "input.form-control.ng-untouched.ng-dirty.ng-valid-parse.ng-valid.ng-valid-required",
+                    "locator_id": "9",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 918.75,
+                    "d_y": 222.59375,
+                    "suggest_name": "lastname854"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "form#basicBootstrapForm > div > div:nth-of-type(2) > inputTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 918.75,
+                    "d_y": 222.59375,
+                    "suggest_name": "lastname854"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[2]/input",
+                    "locator_id": "3",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 918.75,
+                    "d_y": 222.59375,
+                    "suggest_name": "lastname854"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "form-control ng-untouched ng-dirty ng-valid-parse ng-valid ng-valid-requiredTGWEBCOMMA2",
+                    "locator_id": "6",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 918.75,
+                    "d_y": 222.59375,
+                    "suggest_name": "lastname854"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.161.5/s/ele-imgs/46/715.png"
+        },
+        {
+            "testcase_element": "ele_male440",
+            "tg_text": "Male",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "col-md-4 col-xs-4 col-sm-4"
+                    },
+                    "tg_text": null
+                },
+                "current_element_attrs": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "col-md-4 col-xs-4 col-sm-4"
+                    },
+                    "tg_text": null
+                },
+                "children": [
+                    {
+                        "tag": "input",
+                        "tg_attributes": {
+                            "type": "radio",
+                            "name": "radiooptions",
+                            "ng-model": "radiovalue",
+                            "value": "Male",
+                            "required": "",
+                            "class": "ng-untouched ng-dirty ng-valid-parse ng-valid ng-valid-required"
+                        },
+                        "tg_text": null
+                    }
+                ]
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//label[normalize-space()='Male']",
+                    "locator_id": "3",
+                    "d_h": 20,
+                    "d_w": 51,
+                    "d_x": 745,
+                    "d_y": 460,
+                    "suggest_name": "ele_male440"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//form[@id='basicBootstrapForm']/div[5]/div/label",
+                    "locator_id": "3",
+                    "d_h": 20,
+                    "d_w": 51,
+                    "d_x": 745.59375,
+                    "d_y": 460.59375,
+                    "suggest_name": "ele_male440"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "div.col-md-4.col-xs-4.col-sm-4 > label",
+                    "locator_id": "9",
+                    "d_h": 20,
+                    "d_w": 51,
+                    "d_x": 745.59375,
+                    "d_y": 460.59375,
+                    "suggest_name": "ele_male440"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "form#basicBootstrapForm > div:nth-of-type(5) > div > labelTGWEBCOMMA1",
+                    "locator_id": "9",
+                    "d_h": 20,
+                    "d_w": 51,
+                    "d_x": 745.59375,
+                    "d_y": 460.59375,
+                    "suggest_name": "ele_male440"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[5]/div/label",
+                    "locator_id": "3",
+                    "d_h": 20,
+                    "d_w": 51,
+                    "d_x": 745.59375,
+                    "d_y": 460.59375,
+                    "suggest_name": "ele_male440"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.161.5/s/ele-imgs/46/716.png"
+        }
+    ]
+}
