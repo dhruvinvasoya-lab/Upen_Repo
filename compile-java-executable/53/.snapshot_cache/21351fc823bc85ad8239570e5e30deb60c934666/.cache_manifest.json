@@ -1,0 +1,25 @@
+{
+    "manifest_version": 1,
+    "fingerprint": "21351fc823bc85ad8239570e5e30deb60c934666",
+    "version_module_id": 38,
+    "origin_build_id": 309,
+    "created_at": "2026-10-13 13:57:44",
+    "files": {
+        "constants.java": {
+            "sha256": "f5c392c1e20c9751b76937ce10365921ab5b961675638e59afafe1435edbc9ff",
+            "size": 553
+        },
+        "TG.java": {
+            "sha256": "0e220bb2a0da5207a19baf5a651f5be2839f78a0377afa5fef3d1627737f0356",
+            "size": 4747
+        },
+        "POM.xml": {
+            "sha256": "88d26ac3e26a99748d6625c143cca76cfc67bfe36d332cbe8cf8dfcb488dfa1b",
+            "size": 7626
+        },
+        "keywords/Multiple_api.json": {
+            "sha256": "eeb36a897c005ceb944d4bbc113628a726b95994b4806fb73f053569394af141",
+            "size": 3588
+        }
+    }
+}

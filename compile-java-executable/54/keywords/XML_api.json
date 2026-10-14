@@ -1,0 +1,19 @@
+{
+    "url": "https://api.mockfly.dev/mocks/0b91ece3-75a1-4abb-83d1-f4401666b57c/xml/get",
+    "method": "GET",
+    "trust_self_signed_ssl_certificate": false,
+    "is_using_proxy": 0,
+    "headers": [],
+    "h_static": [],
+    "params": [],
+    "p_static": [],
+    "key_paths": [
+        {
+            "key_path": "person",
+            "key_data_type": "json"
+        }
+    ],
+    "save_full_response": false,
+    "resp_type": "xml",
+    "timeout": 30
+}
