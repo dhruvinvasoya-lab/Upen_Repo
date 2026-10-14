@@ -87,7 +87,7 @@
             ],
             "iframe_and_shadow_root_data": [],
             "element_type": "xpath",
-            "image_url": "http://10.0.161.5/s/ele-imgs/46/712.png"
+            "image_url": "http://10.0.161.5/s/ele-imgs/49/742.png"
         },
         {
             "testcase_element": "ele_firstname469",
@@ -177,7 +177,7 @@
             ],
             "iframe_and_shadow_root_data": [],
             "element_type": "xpath",
-            "image_url": "http://10.0.161.5/s/ele-imgs/46/713.png"
+            "image_url": "http://10.0.161.5/s/ele-imgs/49/743.png"
         },
         {
             "testcase_element": "ele_lastname033",
@@ -266,7 +266,7 @@
             ],
             "iframe_and_shadow_root_data": [],
             "element_type": "xpath",
-            "image_url": "http://10.0.161.5/s/ele-imgs/46/714.png"
+            "image_url": "http://10.0.161.5/s/ele-imgs/49/744.png"
         },
         {
             "testcase_element": "ele_lastname854",
@@ -356,7 +356,7 @@
             ],
             "iframe_and_shadow_root_data": [],
             "element_type": "xpath",
-            "image_url": "http://10.0.161.5/s/ele-imgs/46/715.png"
+            "image_url": "http://10.0.161.5/s/ele-imgs/49/745.png"
         },
         {
             "testcase_element": "ele_male440",
@@ -445,7 +445,7 @@
             ],
             "iframe_and_shadow_root_data": [],
             "element_type": "xpath",
-            "image_url": "http://10.0.161.5/s/ele-imgs/46/716.png"
+            "image_url": "http://10.0.161.5/s/ele-imgs/49/746.png"
         }
     ]
 }

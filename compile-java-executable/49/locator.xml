@@ -7,7 +7,7 @@
     <element type="css">form#basicBootstrapForm &gt; div &gt; div &gt; inputTGWEBCOMMA5</element>
     <element type="xpath">//input</element>
     <element type="class">form-control ng-pristine ng-untouched ng-invalid ng-invalid-requiredTGWEBCOMMA1</element>
-    <element type="image">http://10.0.161.5/s/ele-imgs/46/712.png</element>
+    <element type="image">http://10.0.161.5/s/ele-imgs/49/742.png</element>
   </locator>
   <locator name="ele_firstname469">
     <element type="xpath">//input[@placeholder='First Name']</element>
@@ -16,7 +16,7 @@
     <element type="css">form#basicBootstrapForm &gt; div &gt; div &gt; inputTGWEBCOMMA5</element>
     <element type="xpath">//input</element>
     <element type="class">form-control ng-untouched ng-dirty ng-valid-parse ng-valid ng-valid-requiredTGWEBCOMMA1</element>
-    <element type="image">http://10.0.161.5/s/ele-imgs/46/713.png</element>
+    <element type="image">http://10.0.161.5/s/ele-imgs/49/743.png</element>
   </locator>
   <locator name="ele_lastname033">
     <element type="xpath">//input[@placeholder='Last Name']</element>
@@ -25,7 +25,7 @@
     <element type="css">form#basicBootstrapForm &gt; div &gt; div:nth-of-type(2) &gt; inputTGWEBCOMMA0</element>
     <element type="xpath">//div[2]/input</element>
     <element type="class">form-control ng-pristine ng-untouched ng-invalid ng-invalid-requiredTGWEBCOMMA2</element>
-    <element type="image">http://10.0.161.5/s/ele-imgs/46/714.png</element>
+    <element type="image">http://10.0.161.5/s/ele-imgs/49/744.png</element>
   </locator>
   <locator name="ele_lastname854">
     <element type="xpath">//input[@placeholder='Last Name']</element>
@@ -34,7 +34,7 @@
     <element type="css">form#basicBootstrapForm &gt; div &gt; div:nth-of-type(2) &gt; inputTGWEBCOMMA0</element>
     <element type="xpath">//div[2]/input</element>
     <element type="class">form-control ng-untouched ng-dirty ng-valid-parse ng-valid ng-valid-requiredTGWEBCOMMA2</element>
-    <element type="image">http://10.0.161.5/s/ele-imgs/46/715.png</element>
+    <element type="image">http://10.0.161.5/s/ele-imgs/49/745.png</element>
   </locator>
   <locator name="ele_male440">
     <element type="xpath">//label[normalize-space()='Male']</element>
@@ -42,6 +42,6 @@
     <element type="css">div.col-md-4.col-xs-4.col-sm-4 &gt; label</element>
     <element type="css">form#basicBootstrapForm &gt; div:nth-of-type(5) &gt; div &gt; labelTGWEBCOMMA1</element>
     <element type="xpath">//div[5]/div/label</element>
-    <element type="image">http://10.0.161.5/s/ele-imgs/46/716.png</element>
+    <element type="image">http://10.0.161.5/s/ele-imgs/49/746.png</element>
   </locator>
 </locators>
