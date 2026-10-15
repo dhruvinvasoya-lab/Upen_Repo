@@ -30,9 +30,9 @@
                     "locator_id": "3",
                     "d_h": 34,
                     "d_w": 165,
-                    "d_x": 723,
-                    "d_y": 222,
-                    "suggest_name": "firstname663"
+                    "d_x": 1300,
+                    "d_y": 375,
+                    "suggest_name": "ele_firstname663"
                 },
                 {
                     "locators": "Xpath",
@@ -42,7 +42,7 @@
                     "d_w": 165,
                     "d_x": 723.75,
                     "d_y": 222.59375,
-                    "suggest_name": "firstname663"
+                    "suggest_name": "ele_firstname663"
                 },
                 {
                     "locators": "Xpath",
@@ -52,7 +52,7 @@
                     "d_w": 165,
                     "d_x": 723.75,
                     "d_y": 222.59375,
-                    "suggest_name": "firstname663"
+                    "suggest_name": "ele_firstname663"
                 },
                 {
                     "locators": "CSS selector",
@@ -62,7 +62,7 @@
                     "d_w": 165,
                     "d_x": 723.75,
                     "d_y": 222.59375,
-                    "suggest_name": "firstname663"
+                    "suggest_name": "ele_firstname663"
                 },
                 {
                     "locators": "CSS selector",
@@ -72,7 +72,7 @@
                     "d_w": 165,
                     "d_x": 723.75,
                     "d_y": 222.59375,
-                    "suggest_name": "firstname663"
+                    "suggest_name": "ele_firstname663"
                 },
                 {
                     "locators": "Xpath",
@@ -82,7 +82,7 @@
                     "d_w": 165,
                     "d_x": 723.75,
                     "d_y": 222.59375,
-                    "suggest_name": "firstname663"
+                    "suggest_name": "ele_firstname663"
                 },
                 {
                     "locators": "class",
@@ -92,7 +92,7 @@
                     "d_w": 165,
                     "d_x": 723.75,
                     "d_y": 222.59375,
-                    "suggest_name": "firstname663"
+                    "suggest_name": "ele_firstname663"
                 }
             ],
             "iframe_and_shadow_root_data": [],
