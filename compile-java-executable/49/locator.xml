@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <locators>
   <locator name="ele_firstname663">
-    <element type="xpath">//input[@placeholder='First Name']</element>
-    <element type="xpath">//form[@id='basicBootstrapForm']/div/div/input</element>
-    <element type="css">input.form-control.ng-pristine.ng-untouched.ng-invalid.ng-invalid-required</element>
-    <element type="css">form#basicBootstrapForm &gt; div &gt; div &gt; inputTGWEBCOMMA5</element>
-    <element type="xpath">//input</element>
-    <element type="class">form-control ng-pristine ng-untouched ng-invalid ng-invalid-requiredTGWEBCOMMA1</element>
+    <element type="xpath">//input[@placeholder='First Namesss']</element>
+    <element type="xpath">//input[@placeholder='First Namessssss']</element>
+    <element type="xpath">//form[@id='basicBootstrapForm']/div/div/input/input/input</element>
+    <element type="css">input.form-control.ng-pristine.ng-untouched.ng-invalid.ng-invalid-requiredsssssssss</element>
+    <element type="css">form#basicBootstrapForm &gt; div &gt; div &gt; inputTGWEBCOMMA5sssssssssssss</element>
+    <element type="xpath">//inputssssssssssss</element>
+    <element type="class">form-control ng-pristine ng-untouched ng-invalid ng-invalid-requiredTGWEBCOMMA1sssssssssssssssssssss</element>
     <element type="image">http://10.0.161.5/s/ele-imgs/49/742.png</element>
   </locator>
   <locator name="ele_firstname469">

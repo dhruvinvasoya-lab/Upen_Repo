@@ -26,7 +26,7 @@
             "locator": [
                 {
                     "locators": "XPath",
-                    "locators_val": "//input[@placeholder='First Name']",
+                    "locators_val": "//input[@placeholder='First Namesss']",
                     "locator_id": "3",
                     "d_h": 34,
                     "d_w": 165,
@@ -36,7 +36,17 @@
                 },
                 {
                     "locators": "Xpath",
-                    "locators_val": "//form[@id='basicBootstrapForm']/div/div/input",
+                    "locators_val": "//input[@placeholder='First Namessssss']",
+                    "locator_id": "3",
+                    "d_h": 34,
+                    "d_w": 165,
+                    "d_x": 723.75,
+                    "d_y": 222.59375,
+                    "suggest_name": "firstname663"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//form[@id='basicBootstrapForm']/div/div/input/input/input",
                     "locator_id": "3",
                     "d_h": 34,
                     "d_w": 165,
@@ -46,7 +56,7 @@
                 },
                 {
                     "locators": "CSS selector",
-                    "locators_val": "input.form-control.ng-pristine.ng-untouched.ng-invalid.ng-invalid-required",
+                    "locators_val": "input.form-control.ng-pristine.ng-untouched.ng-invalid.ng-invalid-requiredsssssssss",
                     "locator_id": "9",
                     "d_h": 34,
                     "d_w": 165,
@@ -56,7 +66,7 @@
                 },
                 {
                     "locators": "CSS selector",
-                    "locators_val": "form#basicBootstrapForm > div > div > inputTGWEBCOMMA5",
+                    "locators_val": "form#basicBootstrapForm > div > div > inputTGWEBCOMMA5sssssssssssss",
                     "locator_id": "9",
                     "d_h": 34,
                     "d_w": 165,
@@ -66,7 +76,7 @@
                 },
                 {
                     "locators": "Xpath",
-                    "locators_val": "//input",
+                    "locators_val": "//inputssssssssssss",
                     "locator_id": "3",
                     "d_h": 34,
                     "d_w": 165,
@@ -76,7 +86,7 @@
                 },
                 {
                     "locators": "class",
-                    "locators_val": "form-control ng-pristine ng-untouched ng-invalid ng-invalid-requiredTGWEBCOMMA1",
+                    "locators_val": "form-control ng-pristine ng-untouched ng-invalid ng-invalid-requiredTGWEBCOMMA1sssssssssssssssssssss",
                     "locator_id": "6",
                     "d_h": 34,
                     "d_w": 165,
