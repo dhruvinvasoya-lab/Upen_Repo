@@ -37,6 +37,9 @@ public class tc {
 		tg.wait("ele_firstname469", ComparisonType.IS_VISIBLE);
 		tg.wait("ele_firstname663", ComparisonType.IS_VISIBLE);
 		tg.wait("ele_lastname854", ComparisonType.IS_VISIBLE);
+		tg.wait("ele_submit", ComparisonType.IS_VISIBLE);
+		tg.click("ele_Asia4555", 1);
+		tg.click("ele_male440", 1);
 		tg.close();
 	}
 }
