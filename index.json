@@ -2,7 +2,7 @@
     "status": true,
     "message": "Version data loaded successfully.",
     "version_id": "17",
-    "user_id": 2,
+    "user_id": 0,
     "abo_version": {
         "version_id": "17",
         "app_id": "8",
@@ -16,7 +16,7 @@
         "is_delete": "0",
         "xray_project_version": null,
         "restore_id": "0",
-        "is_git_enabled": "0",
+        "is_git_enabled": "1",
         "git_restore_id": "0"
     },
     "app_id": "8",
@@ -74,17 +74,7 @@
             "abo_version_proc": [],
             "abo_vm_test_case_manual": [],
             "abo_vm_network_assert": [],
-            "abo_update": [
-                {
-                    "id": "81",
-                    "user_id": "2",
-                    "app_id": "8",
-                    "version_id": "17",
-                    "version_module_id": "17",
-                    "description": "",
-                    "action_process": "add_version_module"
-                }
-            ],
+            "abo_update": [],
             "abo_vm_test_story_manual": [],
             "abo_version_pages": [
                 {
@@ -124,17 +114,7 @@
             "abo_version_proc": [],
             "abo_vm_test_case_manual": [],
             "abo_vm_network_assert": [],
-            "abo_update": [
-                {
-                    "id": "82",
-                    "user_id": "2",
-                    "app_id": "8",
-                    "version_id": "17",
-                    "version_module_id": "18",
-                    "description": "",
-                    "action_process": "add_version_module"
-                }
-            ],
+            "abo_update": [],
             "abo_vm_test_story_manual": [],
             "abo_version_pages": [
                 {
@@ -213,8 +193,8 @@
                     "is_ai_generated": "0",
                     "created_source": "import_zip",
                     "created_source_ref": null,
-                    "is_draft": "4",
-                    "updated_at": "2026-10-21 13:13:53",
+                    "is_draft": "0",
+                    "updated_at": "2026-10-21 13:17:40",
                     "created_at": "2026-10-21 13:13:53",
                     "status": "2",
                     "qtest_skip_sync": "1",
@@ -227,35 +207,7 @@
             "abo_version_proc": [],
             "abo_vm_test_case_manual": [],
             "abo_vm_network_assert": [],
-            "abo_update": [
-                {
-                    "id": "83",
-                    "user_id": "2",
-                    "app_id": "8",
-                    "version_id": "17",
-                    "version_module_id": "19",
-                    "description": "",
-                    "action_process": "add_version_module"
-                },
-                {
-                    "id": "84",
-                    "user_id": "2",
-                    "app_id": "8",
-                    "version_id": "17",
-                    "version_module_id": "19",
-                    "description": "G1",
-                    "action_process": "edit_version_module"
-                },
-                {
-                    "id": "85",
-                    "user_id": "2",
-                    "app_id": "8",
-                    "version_id": "17",
-                    "version_module_id": "19",
-                    "description": "",
-                    "action_process": "edit_test_case"
-                }
-            ],
+            "abo_update": [],
             "abo_vm_test_story_manual": [],
             "abo_version_pages": [
                 {

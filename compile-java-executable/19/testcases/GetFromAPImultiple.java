@@ -65,7 +65,7 @@ public class getfromapimultiple {
 		tg_String var_macAddress = "";
 		tg_String var_university = "";
 		JSONObject var_bank = tg.getJsonData("{}");
-				tg.readFromAPI("Multiple_api.json", var_ID, var_firstName, var_lastName, var_maidenName, var_age, var_gender, var_email, var_phone, var_username, var_password, var_birthDate, var_image, var_bloodGroup, var_height, var_weight, var_eyeColor, var_hair, var_ip, var_address, var_addressaddress, var_addresscity, var_addressstate, var_addressstateCode, var_addresspostalCode, var_addresscoordinates, var_addresscoordinateslat, var_addresscoordinateslng, var_addresscountry, var_macAddress, var_university, var_bank);
+				tg.readFromAPI("Multiple_api.json", var_ID, var_firstName, var_lastName, var_maidenName, var_age, var_gender, var_email, var_phone, var_username, var_password, var_birthDate, var_image, var_bloodGroup, var_DBG, var_ra_DBR, var_eyeColor, var_hair, var_ip, var_address, var_addressaddress, var_addresscity, var_addressstate, var_addressstateCode, var_addresspostalCode, var_addresscoordinates, var_addresscoordinateslat, var_addresscoordinateslng, var_addresscountry, var_macAddress, var_university, var_bank);
 		tg.printLogs(var_ID);
 		tg.printLogs(var_firstName);
 		tg.printLogs(var_lastName);
