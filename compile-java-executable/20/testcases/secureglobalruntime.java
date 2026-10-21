@@ -42,6 +42,7 @@ public class secureglobalruntime {
 		tg.printLogs(var_ra_ra_str);
 		tg.endSecureBlock();
 		tg.wait(2);
+		tg.wait(1);
 		tg.close();
 	}
 }
