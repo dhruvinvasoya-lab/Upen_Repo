@@ -1,0 +1,139 @@
+{
+    "url": "https://dummyjson.com/users",
+    "method": "GET",
+    "trust_self_signed_ssl_certificate": false,
+    "is_using_proxy": 0,
+    "headers": [],
+    "h_static": [],
+    "params": [],
+    "p_static": [],
+    "key_paths": [
+        {
+            "key_path": "users[0].id",
+            "key_data_type": "integer"
+        },
+        {
+            "key_path": "users[0].firstName",
+            "key_data_type": "string"
+        },
+        {
+            "key_path": "users[0].lastName",
+            "key_data_type": "string"
+        },
+        {
+            "key_path": "users[0].maidenName",
+            "key_data_type": "string"
+        },
+        {
+            "key_path": "users[0].age",
+            "key_data_type": "integer"
+        },
+        {
+            "key_path": "users[0].gender",
+            "key_data_type": "string"
+        },
+        {
+            "key_path": "users[0].email",
+            "key_data_type": "string"
+        },
+        {
+            "key_path": "users[0].phone",
+            "key_data_type": "string"
+        },
+        {
+            "key_path": "users[0].username",
+            "key_data_type": "string"
+        },
+        {
+            "key_path": "users[0].password",
+            "key_data_type": "string"
+        },
+        {
+            "key_path": "users[0].birthDate",
+            "key_data_type": "string"
+        },
+        {
+            "key_path": "users[0].image",
+            "key_data_type": "string"
+        },
+        {
+            "key_path": "users[0].bloodGroup",
+            "key_data_type": "string"
+        },
+        {
+            "key_path": "users[0].height",
+            "key_data_type": "double"
+        },
+        {
+            "key_path": "users[0].weight",
+            "key_data_type": "double"
+        },
+        {
+            "key_path": "users[0].eyeColor",
+            "key_data_type": "string"
+        },
+        {
+            "key_path": "users[0].hair",
+            "key_data_type": "json"
+        },
+        {
+            "key_path": "users[0].ip",
+            "key_data_type": "string"
+        },
+        {
+            "key_path": "users[0].address",
+            "key_data_type": "json"
+        },
+        {
+            "key_path": "users[0].address.address",
+            "key_data_type": "string"
+        },
+        {
+            "key_path": "users[0].address.city",
+            "key_data_type": "string"
+        },
+        {
+            "key_path": "users[0].address.state",
+            "key_data_type": "string"
+        },
+        {
+            "key_path": "users[0].address.stateCode",
+            "key_data_type": "string"
+        },
+        {
+            "key_path": "users[0].address.postalCode",
+            "key_data_type": "integer"
+        },
+        {
+            "key_path": "users[0].address.coordinates",
+            "key_data_type": "json"
+        },
+        {
+            "key_path": "users[0].address.coordinates.lat",
+            "key_data_type": "double"
+        },
+        {
+            "key_path": "users[0].address.coordinates.lng",
+            "key_data_type": "double"
+        },
+        {
+            "key_path": "users[0].address.country",
+            "key_data_type": "string"
+        },
+        {
+            "key_path": "users[0].macAddress",
+            "key_data_type": "string"
+        },
+        {
+            "key_path": "users[0].university",
+            "key_data_type": "string"
+        },
+        {
+            "key_path": "users[0].bank",
+            "key_data_type": "json"
+        }
+    ],
+    "save_full_response": false,
+    "resp_type": "json",
+    "timeout": 30
+}
