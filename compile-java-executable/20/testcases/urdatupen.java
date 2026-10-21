@@ -21,17 +21,18 @@ public class urdatupen {
 	@Test(retryAnalyzer = RetryFailedTestCases.class)
 	public void urdatupen() {
 		tg.openDevice();
-				tg.wait("ele_EnteremailaddressEditText1792599978719", ComparisonType.IS_VISIBLE);
-				tg.click("ele_EnteremailaddressEditText1792599978719", 1);
-				tg.wait("ele_EnteremailaddressEditText1792599982281", ComparisonType.IS_VISIBLE);
-				tg.click("ele_EnteremailaddressEditText1792599982281", 1);
-				tg.wait("ele_EnteremailaddressEditText1792599982281", ComparisonType.IS_VISIBLE);
-				tg.type("ele_EnteremailaddressEditText1792599982281", "upenm", true);
-				tg.wait("ele_EnterpasswordEditText1792599989873", ComparisonType.IS_VISIBLE);
-				tg.click("ele_EnterpasswordEditText1792599989873", 1);
-				tg.wait("ele_EnterpasswordEditText1792599989873", ComparisonType.IS_VISIBLE);
-				tg.type("ele_EnterpasswordEditText1792599989873", "123", true);
-				tg.wait(5);
+		tg.wait("ele_EnteremailaddressEditText1792599978719", ComparisonType.IS_VISIBLE);
+		tg.click("ele_EnteremailaddressEditText1792599978719", 1);
+		tg.wait("ele_EnteremailaddressEditText1792599982281", ComparisonType.IS_VISIBLE);
+		tg.click("ele_EnteremailaddressEditText1792599982281", 1);
+		tg.wait("ele_EnteremailaddressEditText1792599982281", ComparisonType.IS_VISIBLE);
+		tg.type("ele_EnteremailaddressEditText1792599982281", "upenm", true);
+		tg.wait("ele_EnterpasswordEditText1792599989873", ComparisonType.IS_VISIBLE);
+		tg.click("ele_EnterpasswordEditText1792599989873", 1);
+		tg.wait("ele_EnterpasswordEditText1792599989873", ComparisonType.IS_VISIBLE);
+		tg.type("ele_EnterpasswordEditText1792599989873", "123", true);
+		tg.wait(5);
+		tg.wait(2);
 		tg.close();
 	}
 }
