@@ -650,6 +650,117 @@
             "iframe_and_shadow_root_data": [],
             "element_type": "xpath",
             "image_url": "http://192.168.5.30/s/ele-imgs/20/251.png"
+        },
+        {
+            "testcase_element": "ele_EnteremailaddressEditText1792599978719",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "(//android.widget.EditText[contains(@resource-id,'et_email')])[1]",
+                    "locator_id": "3",
+                    "d_h": 131,
+                    "d_w": 970,
+                    "d_x": 55,
+                    "d_y": 1254,
+                    "suggest_name": "EnteremailaddressEditText1792599978719"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "EnteremailaddressEditText1792599978719",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout/android.widget.LinearLayout/android.widget.LinearLayout[2]/android.widget.FrameLayout/android.widget.EditText"
+                    ],
+                    "img": "",
+                    "d_h": "131",
+                    "d_w": "970",
+                    "d_x": "55",
+                    "d_y": "1254",
+                    "element_area": 1101,
+                    "locators_val": "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout/android.widget.LinearLayout/android.widget.LinearLayout[2]/android.widget.FrameLayout/android.widget.EditText",
+                    "locators": "xpath"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://192.168.5.30/s/ele-imgs/20/302.png"
+        },
+        {
+            "testcase_element": "ele_EnteremailaddressEditText1792599982281",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "(//android.widget.EditText[contains(@resource-id,'et_email')])[1]",
+                    "locator_id": "3",
+                    "d_h": 131,
+                    "d_w": 970,
+                    "d_x": 55,
+                    "d_y": 409,
+                    "suggest_name": "EnteremailaddressEditText1792599982281"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "EnteremailaddressEditText1792599982281",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout/android.widget.LinearLayout/android.widget.LinearLayout[2]/android.widget.FrameLayout/android.widget.EditText"
+                    ],
+                    "img": "",
+                    "d_h": "131",
+                    "d_w": "970",
+                    "d_x": "55",
+                    "d_y": "409",
+                    "element_area": 1101,
+                    "locators_val": "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout/android.widget.LinearLayout/android.widget.LinearLayout[2]/android.widget.FrameLayout/android.widget.EditText",
+                    "locators": "xpath"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://192.168.5.30/s/ele-imgs/20/303.png"
+        },
+        {
+            "testcase_element": "ele_EnterpasswordEditText1792599989873",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "(//android.widget.EditText[contains(@resource-id,'et_password')])[1]",
+                    "locator_id": "3",
+                    "d_h": 131,
+                    "d_w": 970,
+                    "d_x": 55,
+                    "d_y": 566,
+                    "suggest_name": "EnterpasswordEditText1792599989873"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "EnterpasswordEditText1792599989873",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout/android.widget.LinearLayout/android.widget.LinearLayout[3]/android.widget.FrameLayout/android.widget.EditText"
+                    ],
+                    "img": "",
+                    "d_h": "131",
+                    "d_w": "970",
+                    "d_x": "55",
+                    "d_y": "566",
+                    "element_area": 1101,
+                    "locators_val": "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout/android.widget.LinearLayout/android.widget.LinearLayout[3]/android.widget.FrameLayout/android.widget.EditText",
+                    "locators": "xpath"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://192.168.5.30/s/ele-imgs/20/304.png"
         }
     ]
 }
