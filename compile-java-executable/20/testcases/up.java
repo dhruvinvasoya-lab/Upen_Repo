@@ -32,7 +32,6 @@ public class up {
 		tg.wait("ele_EnterpasswordEditText1792599989873", ComparisonType.IS_VISIBLE);
 		tg.type("ele_EnterpasswordEditText1792599989873", "123", true);
 		tg.wait(5);
-		tg.wait(5);
 		tg.close();
 	}
 }
